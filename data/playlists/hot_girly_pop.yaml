@@ -1,0 +1,99 @@
+name: "Hot Girl Behaviour"
+created: "2026-06-29"
+last_updated: "2026-06-29"
+
+theme: |
+  Self-assured, kinetic pop for girls who mean business. K-pop precision meets
+  Western hyperpop attitude — serves both choreo-ready bops and floor-clearing
+  bangers. Bratty energy, flawless execution. No ballads. No boys.
+
+vibe_tags:
+  - girly pop
+  - K-pop bops
+  - dance floor
+  - main character energy
+  - fierce and fun
+
+updates:
+  - date: "2026-06-29"
+    note: >
+      Created. Seeded from 18-track reference list. 12 library tracks added
+      (KATSEYE, LE SSERAFIM, aespa). 16 reference tracks missing — added to
+      to_get_list. xlove - Serve added to liked songs per user note.
+  - date: "2026-06-29"
+    note: "Renamed to Hot Girl Behaviour. Added BIA & Young Miko - BIRTHDAY BEHAVIOR to wishlist."
+
+# Tracks referenced but not yet in library — add to M3U as acquired
+wishlist_tracks:
+  - artist: "ILLIT"
+    title: "It's Me"
+    type: "single"
+  - artist: "LE SSERAFIM"
+    title: "FEARLESS"
+    type: "single"
+  - artist: "Slayyyer"
+    title: "Beat Up Chanels"
+    type: "track"
+  - artist: "Charli XCX"
+    title: "Guess (feat. Billie Eilish)"
+    type: "track"
+  - artist: "FLO"
+    title: "Leak It"
+    type: "track"
+  - artist: "xlove"
+    title: "Serve"
+    type: "track"
+  - artist: "Lady Gaga"
+    title: "Runway (feat. Doechii)"
+    type: "track"
+  - artist: "Bebe Rexha"
+    title: "New Religion"
+    type: "track"
+  - artist: "Sofi Tukker"
+    title: "Pick Up the Phone"
+    type: "track"
+  - artist: "Jennie"
+    title: "Mantra"
+    type: "single"
+  - artist: "Jennie"
+    title: "Like JENNIE"
+    type: "track"
+  - artist: "Arrows in Action"
+    title: "Cheekbones"
+    type: "track"
+  - artist: "Troye Sivan"
+    title: "Rush"
+    type: "single"
+  - artist: "Disco Lines & Tinashe"
+    title: "No Broke Boys"
+    type: "track"
+  - artist: "Meghan Trainor"
+    title: "Made You Look"
+    type: "track"
+  - artist: "Pebbles&TamTam"
+    title: "Pink Like Suki"
+    type: "track"
+  - artist: "BIA & Young Miko"
+    title: "BIRTHDAY BEHAVIOR"
+    type: "track"
+
+# Extra suggestions that fit the vibe — not yet referenced by user
+extra_suggestions:
+  - artist: "NewJeans"
+    title: "Super Shy"
+    note: "Gen-Z innocent-cunt energy, the OG of this exact lane"
+  - artist: "BLACKPINK"
+    title: "Pink Venom"
+    note: "Genre-defining for this whole playlist"
+  - artist: "Kim Petras"
+    title: "Heart to Break"
+    note: "Glitter-pop bridge between K-pop and hyperpop"
+  - artist: "Sabrina Carpenter"
+    title: "Espresso"
+    note: "Maximum hooks, maximum main character"
+  - artist: "Doja Cat"
+    title: "Say So"
+    note: "Self-assured disco-pop that invented half this vibe"
+  - artist: "Ice Spice"
+    title: "Princess Diana"
+    note: "Drill-adjacent girly pop, very much the energy"
