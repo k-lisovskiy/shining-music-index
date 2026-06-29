@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-29T09:50:34.988840+00:00",
+  "generated": "2026-06-29T14:12:59.746247+00:00",
   "music_root": "/Volumes/COMICS/Music",
   "stats": {
-    "artists": 13,
-    "albums": 40,
-    "tracks": 474
+    "artists": 24,
+    "albums": 53,
+    "tracks": 505
   },
   "artists": [
     {
@@ -92,6 +92,145 @@
       ]
     },
     {
+      "name": "Arrows in Action",
+      "albums": [
+        {
+          "name": "Cheekbones (single)",
+          "year": "2024-10-23",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Cheekbones",
+              "duration_s": 169,
+              "path": "Arrows in Action/Cheekbones (single)/01 Cheekbones.flac"
+            }
+          ]
+        },
+        {
+          "name": "I Think I've Been Here Before",
+          "year": "2025-09-19",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Celebration",
+              "duration_s": 155,
+              "path": "Arrows in Action/I Think I've Been Here Before/01 Celebration.flac"
+            },
+            {
+              "number": 2,
+              "title": "Feel It Again",
+              "duration_s": 154,
+              "path": "Arrows in Action/I Think I've Been Here Before/02 Feel It Again.flac"
+            },
+            {
+              "number": 3,
+              "title": "Hello Sunlight!",
+              "duration_s": 157,
+              "path": "Arrows in Action/I Think I've Been Here Before/03 Hello Sunlight!.flac"
+            },
+            {
+              "number": 4,
+              "title": "Light Like You",
+              "duration_s": 201,
+              "path": "Arrows in Action/I Think I've Been Here Before/04 Light Like You.flac"
+            },
+            {
+              "number": 5,
+              "title": "Lost in the Moment",
+              "duration_s": 169,
+              "path": "Arrows in Action/I Think I've Been Here Before/05 Lost in the Moment.flac"
+            },
+            {
+              "number": 6,
+              "title": "Déjà Vu",
+              "duration_s": 178,
+              "path": "Arrows in Action/I Think I've Been Here Before/06 Déjà Vu.flac"
+            },
+            {
+              "number": 7,
+              "title": "Empty Canvas",
+              "duration_s": 183,
+              "path": "Arrows in Action/I Think I've Been Here Before/07 Empty Canvas.flac"
+            },
+            {
+              "number": 9,
+              "title": "Corner of Your Mind",
+              "duration_s": 172,
+              "path": "Arrows in Action/I Think I've Been Here Before/09 Corner of Your Mind.flac"
+            },
+            {
+              "number": 10,
+              "title": "Nobody Told Me",
+              "duration_s": 175,
+              "path": "Arrows in Action/I Think I've Been Here Before/10 Nobody Told Me.flac"
+            },
+            {
+              "number": 11,
+              "title": "Stay Awake",
+              "duration_s": 174,
+              "path": "Arrows in Action/I Think I've Been Here Before/11 Stay Awake.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bebe Rexha",
+      "albums": [
+        {
+          "name": "DIRTY BLONDE",
+          "year": "2026-06-12",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 3,
+              "title": "New Religion",
+              "duration_s": 174,
+              "path": "Bebe Rexha/DIRTY BLONDE/03 Bebe Rexha - New Religion.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charli xcx",
+      "albums": [
+        {
+          "name": "Brat and it’s completely different but also still brat",
+          "year": "2024-10-11",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 5,
+              "title": "Guess",
+              "duration_s": 143,
+              "path": "Charli xcx/Brat and it’s completely different but also still brat/2-05 Charli xcx featuring billie eilish - Guess.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FLO",
+      "albums": [
+        {
+          "name": "Leak It (single)",
+          "year": "2026-03-20",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Leak It",
+              "duration_s": 183,
+              "path": "FLO/Leak It (single)/01 Leak It.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Harry Styles",
       "albums": [
         {
@@ -170,6 +309,24 @@
               "title": "Carla’s Song",
               "duration_s": 253,
               "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/12 Carla’s Song.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ILLIT",
+      "albums": [
+        {
+          "name": "MAMIHLAPINATAPAI EP",
+          "year": "2026-04-30",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 2,
+              "title": "It’s Me",
+              "duration_s": 138,
+              "path": "ILLIT/MAMIHLAPINATAPAI EP/02 It’s Me.flac"
             }
           ]
         }
@@ -696,6 +853,24 @@
       ]
     },
     {
+      "name": "Pebbles&TamTam",
+      "albums": [
+        {
+          "name": "PINK LIKE SUKI (single)",
+          "year": "2024-06-07",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "PINK LIKE SUKI",
+              "duration_s": 150,
+              "path": "Pebbles&TamTam/PINK LIKE SUKI (single)/01 PINK LIKE SUKI.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Rose Villain",
       "albums": [
         {
@@ -762,6 +937,114 @@
               "title": "MILANO ALMENO TU",
               "duration_s": 172,
               "path": "Rose Villain/Radio Sakura/12 Rose Villain - MILANO ALMENO TU.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slayyyter",
+      "albums": [
+        {
+          "name": "WOR$T GIRL IN AMERICA",
+          "year": "2026-03-27",
+          "genre": "Electropop",
+          "tracks": [
+            {
+              "number": 2,
+              "title": "BEAT UP CHANEL$",
+              "duration_s": 198,
+              "path": "Slayyyter/WOR$T GIRL IN AMERICA/02 BEAT UP CHANEL$.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sofi Tukker",
+      "albums": [
+        {
+          "name": "BREAD",
+          "year": "2024-08-23",
+          "genre": "Dance-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Bread",
+              "duration_s": 188,
+              "path": "Sofi Tukker/BREAD/01 Sofi Tukker - Bread.flac"
+            },
+            {
+              "number": 2,
+              "title": "Throw Some Ass",
+              "duration_s": 182,
+              "path": "Sofi Tukker/BREAD/02 Sofi Tukker - Throw Some Ass.flac"
+            },
+            {
+              "number": 3,
+              "title": "Guardian Angel (Stand by You)",
+              "duration_s": 207,
+              "path": "Sofi Tukker/BREAD/03 Sofi Tukker - Guardian Angel (Stand by You).flac"
+            },
+            {
+              "number": 4,
+              "title": "Hey Homie",
+              "duration_s": 189,
+              "path": "Sofi Tukker/BREAD/04 Sofi Tukker - Hey Homie.flac"
+            },
+            {
+              "number": 5,
+              "title": "Woof",
+              "duration_s": 192,
+              "path": "Sofi Tukker/BREAD/05 Sofi Tukker & Kah‐Lo - Woof.flac"
+            },
+            {
+              "number": 6,
+              "title": "Goddess in Disguise",
+              "duration_s": 196,
+              "path": "Sofi Tukker/BREAD/06 Sofi Tukker & Mc Bola - Goddess in Disguise.flac"
+            },
+            {
+              "number": 7,
+              "title": "Spiral",
+              "duration_s": 217,
+              "path": "Sofi Tukker/BREAD/07 Sofi Tukker - Spiral.flac"
+            },
+            {
+              "number": 8,
+              "title": "Cafuné",
+              "duration_s": 271,
+              "path": "Sofi Tukker/BREAD/08 Sofi Tukker & Channel Tres - Cafuné.flac"
+            },
+            {
+              "number": 9,
+              "title": "Jacaré",
+              "duration_s": 156,
+              "path": "Sofi Tukker/BREAD/09 Sofi Tukker - Jacaré.flac"
+            },
+            {
+              "number": 10,
+              "title": "Perfect Someone",
+              "duration_s": 279,
+              "path": "Sofi Tukker/BREAD/10 Sofi Tukker - Perfect Someone.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sofi Tukker & Nonô",
+      "albums": [
+        {
+          "name": "Pick Up The Phone (single)",
+          "year": "2025-06-04",
+          "genre": "Tech House",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Pick Up the Phone",
+              "duration_s": 211,
+              "path": "Sofi Tukker & Nonô/Pick Up The Phone (single)/01 Pick Up the Phone.flac"
             }
           ]
         }
@@ -2637,6 +2920,42 @@
       ]
     },
     {
+      "name": "Tinashe",
+      "albums": [
+        {
+          "name": "QUANTUM BABY",
+          "year": "2024-08-16",
+          "genre": "Alternative R&B",
+          "tracks": [
+            {
+              "number": 7,
+              "title": "No Broke Boys",
+              "duration_s": 132,
+              "path": "Tinashe/QUANTUM BABY/07 No Broke Boys.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Troye Sivan",
+      "albums": [
+        {
+          "name": "Something to Give Each Other",
+          "year": "2023-10-13",
+          "genre": "Dance-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Rush",
+              "duration_s": 156,
+              "path": "Troye Sivan/Something to Give Each Other/01 Troye Sivan - Rush.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Various Artists",
       "albums": [
         {
@@ -2649,6 +2968,19 @@
               "title": "Rapide (acoustic)",
               "duration_s": 243,
               "path": "Various Artists/Best of Acoustic/20 Mahmood - Rapide (acoustic).flac"
+            }
+          ]
+        },
+        {
+          "name": "Now That’s What I Call Music! 114",
+          "year": "2023-04-14",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 3,
+              "title": "Made You Look",
+              "duration_s": 134,
+              "path": "Various Artists/Now That’s What I Call Music! 114/03 Meghan Trainor - Made You Look.flac"
             }
           ]
         }
