@@ -1,4 +1,4 @@
-name: "Hot Girly Pop"
+name: "Hot Girl Behaviour"
 created: "2026-06-29"
 last_updated: "2026-06-29"
 
@@ -20,6 +20,8 @@ updates:
       Created. Seeded from 18-track reference list. 12 library tracks added
       (KATSEYE, LE SSERAFIM, aespa). 16 reference tracks missing — added to
       to_get_list. xlove - Serve added to liked songs per user note.
+  - date: "2026-06-29"
+    note: "Renamed to Hot Girl Behaviour. Added BIA & Young Miko - BIRTHDAY BEHAVIOR to wishlist."
 
 # Tracks referenced but not yet in library — add to M3U as acquired
 wishlist_tracks:
@@ -70,6 +72,9 @@ wishlist_tracks:
     type: "track"
   - artist: "Pebbles&TamTam"
     title: "Pink Like Suki"
+    type: "track"
+  - artist: "BIA & Young Miko"
+    title: "BIRTHDAY BEHAVIOR"
     type: "track"
 
 # Extra suggestions that fit the vibe — not yet referenced by user
