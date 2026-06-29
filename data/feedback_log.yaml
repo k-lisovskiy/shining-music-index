@@ -1,1 +1,255 @@
-entries: []
+entries:
+  - date: "2026-06-29"
+    subject: "Taylor Swift"
+    sentiment: "loved"
+    note: "Big fan — evident from library size. Core cornerstone artist."
+
+  - date: "2026-06-29"
+    subject: "Aespa, Le SSerafim, Katseye, ILLIT"
+    sentiment: "loved"
+    note: "Beloved current K-pop acts. ILLIT - It's Me specifically called out."
+
+  - date: "2026-06-29"
+    subject: "Dua Lipa"
+    sentiment: "loved"
+    note: "Listed among beloved current artists."
+
+  - date: "2026-06-29"
+    subject: "sombr"
+    sentiment: "loved"
+    note: "Really enjoying sombr right now — active current discovery."
+
+  - date: "2026-06-29"
+    subject: "Panic! at the Disco - Pray for the Wicked / Death of a Bachelor"
+    sentiment: "loved"
+    note: "Loves the Pray for the Wicked and Death of a Bachelor era mostly."
+
+  - date: "2026-06-29"
+    subject: "Lady Gaga - Abracadabra, Dance in the Dark, Runway"
+    sentiment: "loved"
+    note: "Loves both early Lady Gaga and latest output — specifically Abracadabra, Dance in the Dark, Runway."
+
+  - date: "2026-06-29"
+    subject: "FLO - Leak It"
+    sentiment: "loved"
+    note: "Specifically called out Leak It."
+
+  - date: "2026-06-29"
+    subject: "Slayyer - Beat Up Chanels"
+    sentiment: "liked"
+    note: "Enjoys a few Slayyer tracks, specifically Beat Up Chanels."
+
+  - date: "2026-06-29"
+    subject: "Blackpink"
+    sentiment: "loved"
+    note: "Loves Blackpink for the most part, and members individually as well."
+
+  - date: "2026-06-29"
+    subject: "Harry Styles - Harry's House"
+    sentiment: "loved"
+    note: "Especially loves the latest album (Harry's House)."
+
+  - date: "2026-06-29"
+    subject: "Charli XCX - BRAT"
+    sentiment: "loved"
+    note: "Loves Charli XCX in the Brat era specifically."
+
+  - date: "2026-06-29"
+    subject: "Alex Warren"
+    sentiment: "loved"
+    note: "Listed among beloved current artists."
+
+  - date: "2026-06-29"
+    subject: "Olivia Dean - So Easy"
+    sentiment: "loved"
+    note: "Loves So Easy and a few more songs from Olivia Dean."
+
+  - date: "2026-06-29"
+    subject: "Benjamin Ingrosso - Look Who's Laughing Now"
+    sentiment: "loved"
+    note: "Specifically called out Look Who's Laughing Now."
+
+  - date: "2026-06-29"
+    subject: "Arrows in Action - Cheekbones"
+    sentiment: "loved"
+    note: "Specifically called out Cheekbones."
+
+  - date: "2026-06-29"
+    subject: "Selena Gomez"
+    sentiment: "loved"
+    note: "Listed among beloved current artists."
+
+  - date: "2026-06-29"
+    subject: "Purple Disco Machine"
+    sentiment: "loved"
+    note: "Listed among beloved current artists."
+
+  - date: "2026-06-29"
+    subject: "Sofi Tukker"
+    sentiment: "loved"
+    note: "Recently found and enjoying."
+
+  - date: "2026-06-29"
+    subject: "Charlie Puth"
+    sentiment: "loved"
+    note: "Listed among beloved current artists."
+
+  - date: "2026-06-29"
+    subject: "Gracie Abrams - That's So True"
+    sentiment: "loved"
+    note: "Specifically called out That's So True."
+
+  - date: "2026-06-29"
+    subject: "Sia"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Late 00s / early 10s pop — Nelly Furtado, Britney Spears, Gwen Stefani, Beyoncé, Kelly Rowland, Timbaland, Rihanna, Demi Lovato, Pussycat Dolls"
+    sentiment: "loved"
+    note: "Strong nostalgia for the entire late 00s / early 10s pop era across all these artists."
+
+  - date: "2026-06-29"
+    subject: "Ariana Grande"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Nicky Youre - Sunroof"
+    sentiment: "loved"
+    note: "Specifically called out Sunroof."
+
+  - date: "2026-06-29"
+    subject: "The Weeknd"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Ateez - Lemondrop, In Your Fantasy"
+    sentiment: "loved"
+    note: "Specifically called out Lemondrop and In Your Fantasy."
+
+  - date: "2026-06-29"
+    subject: "Phantom Planet - California"
+    sentiment: "loved"
+    note: "Specifically called out California."
+
+  - date: "2026-06-29"
+    subject: "MIKA"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Disco Lines - No Broke Boys"
+    sentiment: "loved"
+    note: "Specifically called out No Broke Boys."
+
+  - date: "2026-06-29"
+    subject: "Glass Animals - Heat Waves"
+    sentiment: "loved"
+    note: "Specifically called out Heat Waves."
+
+  - date: "2026-06-29"
+    subject: "Lola Young - Messy"
+    sentiment: "loved"
+    note: "Specifically called out Messy."
+
+  - date: "2026-06-29"
+    subject: "Galantis - Peanut Butter Jelly era"
+    sentiment: "loved"
+    note: "Loves Galantis circa Peanut Butter Jelly."
+
+  - date: "2026-06-29"
+    subject: "Major Lazer - Light It Up era"
+    sentiment: "loved"
+    note: "Loves Major Lazer circa Light It Up."
+
+  - date: "2026-06-29"
+    subject: "bbno$ - Edamame"
+    sentiment: "loved"
+    note: "Specifically called out Edamame."
+
+  - date: "2026-06-29"
+    subject: "Imagine Dragons"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Ed Sheeran"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Justin Timberlake - The 20/20 Experience"
+    sentiment: "loved"
+    note: "Special mention for The 20/20 Experience double release."
+
+  - date: "2026-06-29"
+    subject: "Bruno Mars"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Lily Allen - Not Fair, Hard Out Here, Fuck You"
+    sentiment: "loved"
+    note: "Specifically called out Not Fair, Hard Out Here, and Fuck You."
+
+  - date: "2026-06-29"
+    subject: "Pink"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Sophie Ellis-Bextor - Murder on the Dance Floor"
+    sentiment: "loved"
+    note: "Specifically called out Murder on the Dance Floor."
+
+  - date: "2026-06-29"
+    subject: "MARINA - Bubblegum Bitch, Primadonna"
+    sentiment: "loved"
+    note: "Specifically called out Bubblegum Bitch and Primadonna."
+
+  - date: "2026-06-29"
+    subject: "Meghan Trainor - Me Too, No, Made You Look"
+    sentiment: "loved"
+    note: "Specifically called out Me Too, No, and Made You Look."
+
+  - date: "2026-06-29"
+    subject: "Hailee Steinfeld - Love Myself"
+    sentiment: "loved"
+    note: "Specifically called out Love Myself."
+
+  - date: "2026-06-29"
+    subject: "4 Non Blondes - What's Up?"
+    sentiment: "loved"
+    note: "Specifically called out What's Up?"
+
+  - date: "2026-06-29"
+    subject: "Roc, Meli - Hi Fashion"
+    sentiment: "loved"
+    note: "Specifically called out Hi Fashion."
+
+  - date: "2026-06-29"
+    subject: "OneRepublic"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Mike Posner"
+    sentiment: "loved"
+    note: "Listed among beloved artists."
+
+  - date: "2026-06-29"
+    subject: "Jain - Makeba"
+    sentiment: "loved"
+    note: "Loves Makeba specifically."
+
+  - date: "2026-06-29"
+    subject: "Lil Nas X - Starwalking"
+    sentiment: "loved"
+    note: "Specifically called out Starwalking."
+
+  - date: "2026-06-29"
+    subject: "Adele"
+    sentiment: "liked"
+    note: "Some Adele is nice but not love — appreciates rather than passionately listens."
