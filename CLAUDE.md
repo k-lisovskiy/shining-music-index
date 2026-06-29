@@ -86,29 +86,54 @@ After any change, write the updated file.
 
 ## Playlist Creation
 
-### Spotify Playlist
+Every playlist is defined by a single committed file:
+- `<name>.yaml` — companion: theme, update log, unified track list (source of truth)
 
-When asked to create a Spotify playlist:
+The M3U is a **local build artifact** (gitignored; paths are machine-specific). Generate or refresh it any time by running:
+```
+python scripts/create_playlist.py data/playlists/<name>.yaml
+```
 
-1. Ask for a name and vibe/theme if not provided.
-2. Use `mcp__4182449f-28d1-4787-99df-04057a8f0f01__search` to find each track on Spotify (search by "track:[title] artist:[artist]").
-3. Collect the Spotify track URIs.
-4. Use `mcp__4182449f-28d1-4787-99df-04057a8f0f01__create_playlist` to create the playlist with the collected URIs.
-5. Report the playlist name and track count when done.
+### Track list format
 
-### Local M3U Playlist
+All tracks in the companion YAML use a unified `tracks` list:
 
-When asked for a local playlist (works with VLC, foobar2000, etc.):
+```yaml
+tracks:
+  - artist: "KATSEYE"
+    title:  "PINKY UP"
+    source: "library"       # library | user_request | recommendation
+    status: "in_library"    # in_library | pending | acquired | dismissed
+```
 
-1. Select tracks from `data/library_index.json` matching the theme/mood.
-2. Build absolute paths by joining `music_root` + `track.path` for each track.
-3. Write a `.m3u` file to `data/playlists/<name>.m3u`:
-   ```
-   #EXTM3U
-   #EXTINF:<duration_s>,<artist> - <title>
-   /Volumes/COMICS/Music/Artist/Album/01 Artist - Title.flac
-   ```
-4. Confirm the file path and track count.
+`source` values:
+- `library` — pulled from the local library to fit the theme
+- `user_request` — explicitly named by the user as seed/reference tracks
+- `recommendation` — added proactively by Ritchie; **must be ≥25% of the full track list**
+
+`status` values:
+- `in_library` — confirmed in `library_index.json`; goes into the M3U
+- `pending` — not yet acquired; goes into the Spotify playlist only
+- `acquired` — user confirmed they got it; re-run the script to add to M3U
+- `dismissed` — excluded from everything
+
+### Creating a new playlist
+
+1. Ask for name and vibe/theme if not provided.
+2. Build the `tracks` list:
+   a. Search `library_index.json` for tracks that fit — mark `source: library, status: in_library`.
+   b. Add user-supplied reference tracks — mark `source: user_request`.
+   c. Add enough `source: recommendation` tracks so recommendations are **≥25% of total**. These go into the Spotify playlist immediately and into the M3U once acquired.
+3. Write `data/playlists/<name>.yaml`.
+4. Run `python scripts/create_playlist.py data/playlists/<name>.yaml` to generate the M3U.
+5. Create the Spotify playlist via `mcp__Spotify__create_playlist` with all tracks (library + user_request + recommendations together).
+6. Add `pending` tracks not already on the to-get list to `data/to_get_list.yaml`.
+
+### Updating a playlist
+
+- User says "I got [X]": set `status: acquired` in the YAML, re-run `create_playlist.py`, update `to_get_list.yaml`.
+- New music added to library: re-run `create_playlist.py` — it picks up newly matched tracks automatically.
+- Adding tracks: append to `tracks` list, log in `updates`, re-run script.
 
 ---
 

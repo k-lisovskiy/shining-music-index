@@ -16,84 +16,93 @@ vibe_tags:
 
 updates:
   - date: "2026-06-29"
-    note: >
-      Created. Seeded from 18-track reference list. 12 library tracks added
-      (KATSEYE, LE SSERAFIM, aespa). 16 reference tracks missing — added to
-      to_get_list. xlove - Serve added to liked songs per user note.
+    note: "Created. Seeded from 18-track reference list."
   - date: "2026-06-29"
-    note: "Renamed to Hot Girl Behaviour. Added BIA & Young Miko - BIRTHDAY BEHAVIOR to wishlist."
+    note: "Renamed to Hot Girl Behaviour. Added BIA & Young Miko - BIRTHDAY BEHAVIOR."
+  - date: "2026-06-29"
+    note: "Restructured to unified tracks list. Added 8 recommendations (~22% of playlist)."
 
-# Tracks referenced but not yet in library — add to M3U as acquired
-wishlist_tracks:
-  - artist: "ILLIT"
-    title: "It's Me"
-    type: "single"
-  - artist: "LE SSERAFIM"
-    title: "FEARLESS"
-    type: "single"
-  - artist: "Slayyyer"
-    title: "Beat Up Chanels"
-    type: "track"
-  - artist: "Charli XCX"
-    title: "Guess (feat. Billie Eilish)"
-    type: "track"
-  - artist: "FLO"
-    title: "Leak It"
-    type: "track"
-  - artist: "xlove"
-    title: "Serve"
-    type: "track"
-  - artist: "Lady Gaga"
-    title: "Runway (feat. Doechii)"
-    type: "track"
-  - artist: "Bebe Rexha"
-    title: "New Religion"
-    type: "track"
-  - artist: "Sofi Tukker"
-    title: "Pick Up the Phone"
-    type: "track"
-  - artist: "Jennie"
-    title: "Mantra"
-    type: "single"
-  - artist: "Jennie"
-    title: "Like JENNIE"
-    type: "track"
-  - artist: "Arrows in Action"
-    title: "Cheekbones"
-    type: "track"
-  - artist: "Troye Sivan"
-    title: "Rush"
-    type: "single"
-  - artist: "Disco Lines & Tinashe"
-    title: "No Broke Boys"
-    type: "track"
-  - artist: "Meghan Trainor"
-    title: "Made You Look"
-    type: "track"
-  - artist: "Pebbles&TamTam"
-    title: "Pink Like Suki"
-    type: "track"
-  - artist: "BIA & Young Miko"
-    title: "BIRTHDAY BEHAVIOR"
-    type: "track"
+# source: library       — pulled from local library to match the theme
+# source: user_request  — explicitly named by the user as reference/seed tracks
+# source: recommendation — added by Ritchie; ≥25% of full track list
+#
+# status: in_library    — confirmed in library_index.json; goes in M3U
+# status: pending       — not yet acquired; in Spotify playlist only
+# status: acquired      — user confirmed; re-run create_playlist.py to add to M3U
+# status: dismissed     — skip
 
-# Extra suggestions that fit the vibe — not yet referenced by user
-extra_suggestions:
+tracks:
+  # ── in library ────────────────────────────────────────────────────────────
+  - {artist: "KATSEYE",    title: "PINKY UP",     source: library, status: in_library}
+  - {artist: "KATSEYE",    title: "Gnarly",        source: library, status: in_library}
+  - {artist: "KATSEYE",    title: "M.I.A",         source: library, status: in_library}
+  - {artist: "KATSEYE",    title: "Mean Girls",    source: library, status: in_library}
+  - {artist: "LE SSERAFIM", title: "BOOMPALA",     source: library, status: in_library}
+  - {artist: "LE SSERAFIM", title: "CELEBRATION",  source: library, status: in_library}
+  - {artist: "LE SSERAFIM", title: "iffy iffy",    source: library, status: in_library}
+  - {artist: "aespa",      title: "Supernova",     source: library, status: in_library}
+  - {artist: "aespa",      title: "Spicy",         source: library, status: in_library}
+  - {artist: "aespa",      title: "Drama",         source: library, status: in_library}
+  - {artist: "aespa",      title: "Girls",         source: library, status: in_library}
+  - {artist: "aespa",      title: "LEMONADE",      source: library, status: in_library}
+
+  # ── user-requested, not yet in library ───────────────────────────────────
+  - {artist: "ILLIT",                title: "It's Me",                    source: user_request, status: pending}
+  - {artist: "LE SSERAFIM",          title: "FEARLESS",                   source: user_request, status: pending}
+  - {artist: "Slayyyer",             title: "Beat Up Chanels",            source: user_request, status: pending}
+  - {artist: "Charli XCX",           title: "Guess (feat. Billie Eilish)", source: user_request, status: pending}
+  - {artist: "FLO",                  title: "Leak It",                    source: user_request, status: pending}
+  - {artist: "xlove",                title: "Serve",                      source: user_request, status: pending}
+  - {artist: "Lady Gaga",            title: "Runway (feat. Doechii)",     source: user_request, status: pending}
+  - {artist: "Bebe Rexha",           title: "New Religion",               source: user_request, status: pending}
+  - {artist: "Sofi Tukker",          title: "Pick Up the Phone",          source: user_request, status: pending}
+  - {artist: "Jennie",               title: "Mantra",                     source: user_request, status: pending}
+  - {artist: "Jennie",               title: "Like JENNIE",                source: user_request, status: pending}
+  - {artist: "Arrows in Action",     title: "Cheekbones",                 source: user_request, status: pending}
+  - {artist: "Troye Sivan",          title: "Rush",                       source: user_request, status: pending}
+  - {artist: "Disco Lines & Tinashe", title: "No Broke Boys",             source: user_request, status: pending}
+  - {artist: "Meghan Trainor",       title: "Made You Look",              source: user_request, status: pending}
+  - {artist: "Pebbles&TamTam",       title: "Pink Like Suki",             source: user_request, status: pending}
+  - {artist: "BIA & Young Miko",     title: "BIRTHDAY BEHAVIOR",          source: user_request, status: pending}
+
+  # ── recommendations (~22% of total; target ≥25%) ─────────────────────────
   - artist: "NewJeans"
     title: "Super Shy"
-    note: "Gen-Z innocent-cunt energy, the OG of this exact lane"
+    source: recommendation
+    status: pending
+    reason: "Invented gen-Z innocent-fierce pop; this playlist's spiritual origin"
   - artist: "BLACKPINK"
     title: "Pink Venom"
-    note: "Genre-defining for this whole playlist"
+    source: recommendation
+    status: pending
+    reason: "Defines the whole genre — maximum swagger, K-pop precision"
+  - artist: "Chappell Roan"
+    title: "Hot to Go!"
+    source: recommendation
+    status: pending
+    reason: "Anthemic, charismatic, audience-participation energy — peak girly pop"
   - artist: "Kim Petras"
     title: "Heart to Break"
-    note: "Glitter-pop bridge between K-pop and hyperpop"
+    source: recommendation
+    status: pending
+    reason: "Glitter-pop bridge between K-pop and hyperpop lanes"
   - artist: "Sabrina Carpenter"
     title: "Espresso"
-    note: "Maximum hooks, maximum main character"
-  - artist: "Doja Cat"
-    title: "Say So"
-    note: "Self-assured disco-pop that invented half this vibe"
+    source: recommendation
+    status: pending
+    reason: "Maximum hooks, maximum main character"
   - artist: "Ice Spice"
     title: "Princess Diana"
-    note: "Drill-adjacent girly pop, very much the energy"
+    source: recommendation
+    status: pending
+    reason: "Drill-adjacent girly pop — cool factor and attitude"
+  - artist: "Doja Cat"
+    title: "Say So"
+    source: recommendation
+    status: pending
+    reason: "Self-assured disco-pop that started the whole current vibe"
+  - artist: "Victoria Monét"
+    title: "On My Mama"
+    source: recommendation
+    status: pending
+    reason: "Fierce R&B swagger, girl-power anthem with a ton of personality"
