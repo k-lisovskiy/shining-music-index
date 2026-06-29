@@ -253,3 +253,8 @@ entries:
     subject: "Adele"
     sentiment: "liked"
     note: "Some Adele is nice but not love — appreciates rather than passionately listens."
+
+  - date: "2026-06-29"
+    subject: "xlove - Serve"
+    sentiment: "liked"
+    note: "Explicitly added to liked songs while building the hot girly pop playlist."

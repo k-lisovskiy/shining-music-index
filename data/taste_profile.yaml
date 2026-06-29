@@ -109,8 +109,10 @@ loved:
 liked:
   artists:
     - "Adele"
+    - "xlove"
   albums: []
-  tracks: []
+  tracks:
+    - "xlove - Serve"
 
 disliked:
   artists: []
