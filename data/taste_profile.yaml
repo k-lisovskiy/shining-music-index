@@ -1,0 +1,25 @@
+summary: ""
+last_updated: ""
+
+loved:
+  artists: []
+  albums: []
+  tracks: []
+
+liked:
+  artists: []
+  albums: []
+  tracks: []
+
+disliked:
+  artists: []
+  albums: []
+  tracks: []
+
+genres:
+  liked: []
+  disliked: []
+
+characteristics: []
+
+notes: ""

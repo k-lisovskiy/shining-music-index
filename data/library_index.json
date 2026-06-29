@@ -1,0 +1,3200 @@
+{
+  "generated": "2026-06-29T09:50:34.988840+00:00",
+  "music_root": "/Volumes/COMICS/Music",
+  "stats": {
+    "artists": 13,
+    "albums": 40,
+    "tracks": 474
+  },
+  "artists": [
+    {
+      "name": "Annalisa",
+      "albums": [
+        {
+          "name": "E poi siamo finiti nel vortice",
+          "year": "2023-09-29",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Bellissima",
+              "duration_s": 201,
+              "path": "Annalisa/E poi siamo finiti nel vortice/01 Bellissima.flac"
+            },
+            {
+              "number": 2,
+              "title": "Ragazza sola",
+              "duration_s": 199,
+              "path": "Annalisa/E poi siamo finiti nel vortice/02 Ragazza sola.flac"
+            },
+            {
+              "number": 3,
+              "title": "Euforia",
+              "duration_s": 180,
+              "path": "Annalisa/E poi siamo finiti nel vortice/03 Euforia.flac"
+            },
+            {
+              "number": 4,
+              "title": "Mon amour",
+              "duration_s": 203,
+              "path": "Annalisa/E poi siamo finiti nel vortice/04 Mon amour.flac"
+            },
+            {
+              "number": 5,
+              "title": "Rosso corallo",
+              "duration_s": 200,
+              "path": "Annalisa/E poi siamo finiti nel vortice/05 Rosso corallo.flac"
+            },
+            {
+              "number": 6,
+              "title": "Bollicine",
+              "duration_s": 206,
+              "path": "Annalisa/E poi siamo finiti nel vortice/06 Bollicine.flac"
+            },
+            {
+              "number": 7,
+              "title": "Gommapiuma",
+              "duration_s": 181,
+              "path": "Annalisa/E poi siamo finiti nel vortice/07 Gommapiuma.flac"
+            },
+            {
+              "number": 8,
+              "title": "Aria",
+              "duration_s": 183,
+              "path": "Annalisa/E poi siamo finiti nel vortice/08 Aria.flac"
+            },
+            {
+              "number": 9,
+              "title": "La crisi a Saint‐Tropez",
+              "duration_s": 188,
+              "path": "Annalisa/E poi siamo finiti nel vortice/09 La crisi a Saint‐Tropez.flac"
+            },
+            {
+              "number": 10,
+              "title": "Ti dico solo",
+              "duration_s": 189,
+              "path": "Annalisa/E poi siamo finiti nel vortice/10 Ti dico solo.flac"
+            },
+            {
+              "number": 11,
+              "title": "Stelle",
+              "duration_s": 197,
+              "path": "Annalisa/E poi siamo finiti nel vortice/11 Stelle.flac"
+            },
+            {
+              "number": 12,
+              "title": "Indaco violento",
+              "duration_s": 194,
+              "path": "Annalisa/E poi siamo finiti nel vortice/12 Indaco violento.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harry Styles",
+      "albums": [
+        {
+          "name": "Kiss All the Time. Disco, Occasionally.",
+          "year": "2026-03-06",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Aperture",
+              "duration_s": 311,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/01 Aperture.flac"
+            },
+            {
+              "number": 2,
+              "title": "American Girls",
+              "duration_s": 213,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/02 American Girls.flac"
+            },
+            {
+              "number": 3,
+              "title": "Ready, Steady, Go!",
+              "duration_s": 160,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/03 Ready, Steady, Go!.flac"
+            },
+            {
+              "number": 4,
+              "title": "Are You Listening Yet?",
+              "duration_s": 192,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/04 Are You Listening Yet_.flac"
+            },
+            {
+              "number": 5,
+              "title": "Taste Back",
+              "duration_s": 221,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/05 Taste Back.flac"
+            },
+            {
+              "number": 6,
+              "title": "The Waiting Game",
+              "duration_s": 169,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/06 The Waiting Game.flac"
+            },
+            {
+              "number": 7,
+              "title": "Season 2 Weight Loss",
+              "duration_s": 229,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/07 Season 2 Weight Loss.flac"
+            },
+            {
+              "number": 8,
+              "title": "Coming Up Roses",
+              "duration_s": 248,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/08 Coming Up Roses.flac"
+            },
+            {
+              "number": 9,
+              "title": "Pop",
+              "duration_s": 216,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/09 Pop.flac"
+            },
+            {
+              "number": 10,
+              "title": "Dance No More",
+              "duration_s": 194,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/10 Dance No More.flac"
+            },
+            {
+              "number": 11,
+              "title": "Paint by Numbers",
+              "duration_s": 147,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/11 Paint by Numbers.flac"
+            },
+            {
+              "number": 12,
+              "title": "Carla’s Song",
+              "duration_s": 253,
+              "path": "Harry Styles/Kiss All the Time. Disco, Occasionally_/12 Carla’s Song.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Justin Timberlake",
+      "albums": [
+        {
+          "name": "The 20/20 Experience",
+          "year": "2013-03-15",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Pusher Love Girl",
+              "duration_s": 482,
+              "path": "Justin Timberlake/The 20_20 Experience/01 Pusher Love Girl.flac"
+            },
+            {
+              "number": 2,
+              "title": "Suit & Tie",
+              "duration_s": 326,
+              "path": "Justin Timberlake/The 20_20 Experience/02 Suit & Tie.flac"
+            },
+            {
+              "number": 3,
+              "title": "Don’t Hold the Wall",
+              "duration_s": 430,
+              "path": "Justin Timberlake/The 20_20 Experience/03 Don’t Hold the Wall.flac"
+            },
+            {
+              "number": 4,
+              "title": "Strawberry Bubblegum",
+              "duration_s": 479,
+              "path": "Justin Timberlake/The 20_20 Experience/04 Strawberry Bubblegum.flac"
+            },
+            {
+              "number": 5,
+              "title": "Tunnel Vision",
+              "duration_s": 406,
+              "path": "Justin Timberlake/The 20_20 Experience/05 Tunnel Vision.flac"
+            },
+            {
+              "number": 6,
+              "title": "Spaceship Coupe",
+              "duration_s": 437,
+              "path": "Justin Timberlake/The 20_20 Experience/06 Spaceship Coupe.flac"
+            },
+            {
+              "number": 7,
+              "title": "That Girl",
+              "duration_s": 287,
+              "path": "Justin Timberlake/The 20_20 Experience/07 That Girl.flac"
+            },
+            {
+              "number": 8,
+              "title": "Let the Groove Get In",
+              "duration_s": 431,
+              "path": "Justin Timberlake/The 20_20 Experience/08 Let the Groove Get In.flac"
+            },
+            {
+              "number": 9,
+              "title": "Mirrors",
+              "duration_s": 485,
+              "path": "Justin Timberlake/The 20_20 Experience/09 Mirrors.flac"
+            },
+            {
+              "number": 10,
+              "title": "Blue Ocean Floor",
+              "duration_s": 442,
+              "path": "Justin Timberlake/The 20_20 Experience/10 Blue Ocean Floor.flac"
+            },
+            {
+              "number": 11,
+              "title": "Dress On",
+              "duration_s": 279,
+              "path": "Justin Timberlake/The 20_20 Experience/11 Dress On.flac"
+            },
+            {
+              "number": 12,
+              "title": "Body Count",
+              "duration_s": 282,
+              "path": "Justin Timberlake/The 20_20 Experience/12 Body Count.flac"
+            }
+          ]
+        },
+        {
+          "name": "The 20/20 Experience (2 of 2)",
+          "year": "2013-09-30",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Gimme What I Don’t Know (I Want)",
+              "duration_s": 315,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/01 Justin Timberlake - Gimme What I Don’t Know (I Want).flac"
+            },
+            {
+              "number": 2,
+              "title": "True Blood",
+              "duration_s": 571,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/02 Justin Timberlake - True Blood.flac"
+            },
+            {
+              "number": 3,
+              "title": "Cabaret",
+              "duration_s": 272,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/03 Justin Timberlake feat. Drake - Cabaret.flac"
+            },
+            {
+              "number": 4,
+              "title": "TKO",
+              "duration_s": 424,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/04 Justin Timberlake - TKO.flac"
+            },
+            {
+              "number": 5,
+              "title": "Take Back the Night",
+              "duration_s": 353,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/05 Justin Timberlake - Take Back the Night.flac"
+            },
+            {
+              "number": 6,
+              "title": "Murder",
+              "duration_s": 307,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/06 Justin Timberlake feat. JAY Z - Murder.flac"
+            },
+            {
+              "number": 7,
+              "title": "Drink You Away",
+              "duration_s": 331,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/07 Justin Timberlake - Drink You Away.flac"
+            },
+            {
+              "number": 8,
+              "title": "You Got It On",
+              "duration_s": 355,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/08 Justin Timberlake - You Got It On.flac"
+            },
+            {
+              "number": 9,
+              "title": "Amnesia",
+              "duration_s": 424,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/09 Justin Timberlake - Amnesia.flac"
+            },
+            {
+              "number": 10,
+              "title": "Only When I Walk Away",
+              "duration_s": 425,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/10 Justin Timberlake - Only When I Walk Away.flac"
+            },
+            {
+              "number": 11,
+              "title": "Not a Bad Thing / Pair of Wings",
+              "duration_s": 691,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/11 Justin Timberlake - Not a Bad Thing _ Pair of Wings.flac"
+            },
+            {
+              "number": 12,
+              "title": "Blindness",
+              "duration_s": 288,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/12 Justin Timberlake - Blindness.flac"
+            },
+            {
+              "number": 13,
+              "title": "Electric Lady",
+              "duration_s": 260,
+              "path": "Justin Timberlake/The 20_20 Experience (2 of 2)/13 Justin Timberlake - Electric Lady.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KATSEYE",
+      "albums": [
+        {
+          "name": "BEAUTIFUL CHAOS",
+          "year": "2025-06-27",
+          "genre": "Dance-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Gnarly",
+              "duration_s": 137,
+              "path": "KATSEYE/BEAUTIFUL CHAOS/01 Gnarly.flac"
+            },
+            {
+              "number": 2,
+              "title": "Gabriela",
+              "duration_s": 197,
+              "path": "KATSEYE/BEAUTIFUL CHAOS/02 Gabriela.flac"
+            },
+            {
+              "number": 3,
+              "title": "Gameboy",
+              "duration_s": 185,
+              "path": "KATSEYE/BEAUTIFUL CHAOS/03 Gameboy.flac"
+            },
+            {
+              "number": 4,
+              "title": "Mean Girls",
+              "duration_s": 216,
+              "path": "KATSEYE/BEAUTIFUL CHAOS/04 Mean Girls.flac"
+            },
+            {
+              "number": 5,
+              "title": "M.I.A",
+              "duration_s": 129,
+              "path": "KATSEYE/BEAUTIFUL CHAOS/05 M.I.A.flac"
+            }
+          ]
+        },
+        {
+          "name": "PINKY UP",
+          "year": "2026-04-09",
+          "genre": "Dance-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "PINKY UP",
+              "duration_s": 131,
+              "path": "KATSEYE/PINKY UP/01 PINKY UP.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LE SSERAFIM",
+      "albums": [
+        {
+          "name": "SPAGHETTI",
+          "year": "2025-10-24",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "SPAGHETTI",
+              "duration_s": 172,
+              "path": "LE SSERAFIM/SPAGHETTI/01 LE SSERAFIM & j‐hope - SPAGHETTI.flac"
+            },
+            {
+              "number": 2,
+              "title": "Pearlies (My oyster is the world)",
+              "duration_s": 187,
+              "path": "LE SSERAFIM/SPAGHETTI/02 LE SSERAFIM - Pearlies (My oyster is the world).flac"
+            },
+            {
+              "number": 3,
+              "title": "SPAGHETTI (Member ver.)",
+              "duration_s": 136,
+              "path": "LE SSERAFIM/SPAGHETTI/03 LE SSERAFIM - SPAGHETTI (Member ver.).flac"
+            },
+            {
+              "number": 4,
+              "title": "SPAGHETTI (English ver.)",
+              "duration_s": 171,
+              "path": "LE SSERAFIM/SPAGHETTI/04 LE SSERAFIM & j‐hope - SPAGHETTI (English ver.).flac"
+            }
+          ]
+        },
+        {
+          "name": "‘PUREFLOW’ pt.1",
+          "year": "2026-05-22",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Pureflow",
+              "duration_s": 109,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/01 LE SSERAFIM - Pureflow.flac"
+            },
+            {
+              "number": 2,
+              "title": "BOOMPALA",
+              "duration_s": 176,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/02 LE SSERAFIM - BOOMPALA.flac"
+            },
+            {
+              "number": 3,
+              "title": "CELEBRATION",
+              "duration_s": 153,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/03 LE SSERAFIM - CELEBRATION.flac"
+            },
+            {
+              "number": 4,
+              "title": "Creatures",
+              "duration_s": 188,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/04 LE SSERAFIM - Creatures.flac"
+            },
+            {
+              "number": 5,
+              "title": "iffy iffy",
+              "duration_s": 129,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/05 LE SSERAFIM - iffy iffy.flac"
+            },
+            {
+              "number": 6,
+              "title": "우리 어떻게 더 사귈 수 있을까",
+              "duration_s": 118,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/06 LE SSERAFIM - 우리 어떻게 더 사귈 수 있을까.flac"
+            },
+            {
+              "number": 7,
+              "title": "Sonder",
+              "duration_s": 166,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/07 LE SSERAFIM - Sonder.flac"
+            },
+            {
+              "number": 8,
+              "title": "Saki",
+              "duration_s": 164,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/08 LE SSERAFIM feat. Aliyah’s Interlude - Saki.flac"
+            },
+            {
+              "number": 9,
+              "title": "Irony",
+              "duration_s": 144,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/09 LE SSERAFIM - Irony.flac"
+            },
+            {
+              "number": 10,
+              "title": "Trust Exercise",
+              "duration_s": 143,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/10 LE SSERAFIM - Trust Exercise.flac"
+            },
+            {
+              "number": 11,
+              "title": "Liminal Space",
+              "duration_s": 131,
+              "path": "LE SSERAFIM/‘PUREFLOW’ pt.1/11 LE SSERAFIM - Liminal Space.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mahmood",
+      "albums": [
+        {
+          "name": "Ghettolimpo",
+          "year": "2021-06-10",
+          "genre": "Alternative R&B",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Dei",
+              "duration_s": 143,
+              "path": "Mahmood/Ghettolimpo/01 Mahmood - Dei.flac"
+            },
+            {
+              "number": 2,
+              "title": "Ghettolimpo",
+              "duration_s": 234,
+              "path": "Mahmood/Ghettolimpo/02 Mahmood - Ghettolimpo.flac"
+            },
+            {
+              "number": 3,
+              "title": "Inuyasha",
+              "duration_s": 234,
+              "path": "Mahmood/Ghettolimpo/03 Mahmood - Inuyasha.flac"
+            },
+            {
+              "number": 4,
+              "title": "Kobra",
+              "duration_s": 180,
+              "path": "Mahmood/Ghettolimpo/04 Mahmood - Kobra.flac"
+            },
+            {
+              "number": 5,
+              "title": "Baci dalla Tunisia",
+              "duration_s": 240,
+              "path": "Mahmood/Ghettolimpo/05 Mahmood - Baci dalla Tunisia.flac"
+            },
+            {
+              "number": 6,
+              "title": "Klan",
+              "duration_s": 179,
+              "path": "Mahmood/Ghettolimpo/06 Mahmood - Klan.flac"
+            },
+            {
+              "number": 7,
+              "title": "Zero",
+              "duration_s": 259,
+              "path": "Mahmood/Ghettolimpo/07 Mahmood - Zero.flac"
+            },
+            {
+              "number": 8,
+              "title": "Rubini",
+              "duration_s": 228,
+              "path": "Mahmood/Ghettolimpo/08 Mahmood feat. Elisa - Rubini.flac"
+            },
+            {
+              "number": 9,
+              "title": "Dorado",
+              "duration_s": 178,
+              "path": "Mahmood/Ghettolimpo/09 Mahmood feat. Sfera Ebbasta & Feid - Dorado.flac"
+            },
+            {
+              "number": 10,
+              "title": "Talata (٣)",
+              "duration_s": 188,
+              "path": "Mahmood/Ghettolimpo/10 Mahmood - Talata (٣).flac"
+            },
+            {
+              "number": 11,
+              "title": "T’amo",
+              "duration_s": 272,
+              "path": "Mahmood/Ghettolimpo/11 Mahmood - T’amo.flac"
+            },
+            {
+              "number": 12,
+              "title": "Karma",
+              "duration_s": 213,
+              "path": "Mahmood/Ghettolimpo/12 Mahmood feat. Woodkid - Karma.flac"
+            },
+            {
+              "number": 14,
+              "title": "Icaro è libero",
+              "duration_s": 175,
+              "path": "Mahmood/Ghettolimpo/14 Mahmood - Icaro è libero.flac"
+            },
+            {
+              "number": 15,
+              "title": "Klan (Spanish version)",
+              "duration_s": 179,
+              "path": "Mahmood/Ghettolimpo/15 Mahmood - Klan (Spanish version).flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Panic! at the Disco",
+      "albums": [
+        {
+          "name": "Pray For The Wicked",
+          "year": "2018",
+          "genre": "Rock",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "(Fuck a) Silver Lining",
+              "duration_s": 168,
+              "path": "Panic! at the Disco/Pray For The Wicked/01 (Fuck a) Silver Lining.flac"
+            },
+            {
+              "number": 2,
+              "title": "Say Amen (Saturday Night)",
+              "duration_s": 189,
+              "path": "Panic! at the Disco/Pray For The Wicked/02 Say Amen (Saturday Night).flac"
+            },
+            {
+              "number": 3,
+              "title": "Hey Look Ma, I Made It",
+              "duration_s": 169,
+              "path": "Panic! at the Disco/Pray For The Wicked/03 Hey Look Ma, I Made It.flac"
+            },
+            {
+              "number": 4,
+              "title": "High Hopes",
+              "duration_s": 190,
+              "path": "Panic! at the Disco/Pray For The Wicked/04 High Hopes.flac"
+            },
+            {
+              "number": 5,
+              "title": "Roaring 20s",
+              "duration_s": 186,
+              "path": "Panic! at the Disco/Pray For The Wicked/05 Roaring 20s.flac"
+            },
+            {
+              "number": 6,
+              "title": "Dancing’s Not a Crime",
+              "duration_s": 219,
+              "path": "Panic! at the Disco/Pray For The Wicked/06 Dancing’s Not a Crime.flac"
+            },
+            {
+              "number": 7,
+              "title": "One of the Drunks",
+              "duration_s": 198,
+              "path": "Panic! at the Disco/Pray For The Wicked/07 One of the Drunks.flac"
+            },
+            {
+              "number": 8,
+              "title": "The Overpass",
+              "duration_s": 177,
+              "path": "Panic! at the Disco/Pray For The Wicked/08 The Overpass.flac"
+            },
+            {
+              "number": 9,
+              "title": "King of the Clouds",
+              "duration_s": 160,
+              "path": "Panic! at the Disco/Pray For The Wicked/09 King of the Clouds.flac"
+            },
+            {
+              "number": 10,
+              "title": "Old Fashioned",
+              "duration_s": 166,
+              "path": "Panic! at the Disco/Pray For The Wicked/10 Old Fashioned.flac"
+            },
+            {
+              "number": 11,
+              "title": "Dying in LA",
+              "duration_s": 229,
+              "path": "Panic! at the Disco/Pray For The Wicked/11 Dying in LA.flac"
+            }
+          ]
+        },
+        {
+          "name": "Too Weird to Live, Too Rare to Die!",
+          "year": "2013-10-08",
+          "genre": "Synth-Pop",
+          "tracks": [
+            {
+              "number": 2,
+              "title": "Miss Jackson",
+              "duration_s": 192,
+              "path": "Panic! at the Disco/Too Weird to Live, Too Rare to Die!/02 Panic! at the Disco feat. LOLO - Miss Jackson.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Villain",
+      "albums": [
+        {
+          "name": "Radio Sakura",
+          "year": "2024-03-08",
+          "genre": "Hip Hop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "HATTORI HANZO",
+              "duration_s": 166,
+              "path": "Rose Villain/Radio Sakura/01 Rose Villain feat. Madame - HATTORI HANZO.flac"
+            },
+            {
+              "number": 2,
+              "title": "CLICK BOOM!",
+              "duration_s": 225,
+              "path": "Rose Villain/Radio Sakura/02 Rose Villain - CLICK BOOM!.flac"
+            },
+            {
+              "number": 3,
+              "title": "STAN",
+              "duration_s": 149,
+              "path": "Rose Villain/Radio Sakura/03 Rose Villain feat. Ernia - STAN.flac"
+            },
+            {
+              "number": 6,
+              "title": "IL MIO FUNERALE",
+              "duration_s": 155,
+              "path": "Rose Villain/Radio Sakura/06 Rose Villain - IL MIO FUNERALE.flac"
+            },
+            {
+              "number": 7,
+              "title": "BRUTTI PENSIERI",
+              "duration_s": 167,
+              "path": "Rose Villain/Radio Sakura/07 Rose Villain feat. thasup - BRUTTI PENSIERI (1).flac"
+            },
+            {
+              "number": 8,
+              "title": "HAI MAI VISTO PIANGERE UN COWBOY?",
+              "duration_s": 149,
+              "path": "Rose Villain/Radio Sakura/08 Rose Villain - HAI MAI VISTO PIANGERE UN COWBOY_.flac"
+            },
+            {
+              "number": 9,
+              "title": "TRASPARENTE",
+              "duration_s": 151,
+              "path": "Rose Villain/Radio Sakura/09 Rose Villain - TRASPARENTE.flac"
+            },
+            {
+              "number": 10,
+              "title": "COME UN TUONO",
+              "duration_s": 175,
+              "path": "Rose Villain/Radio Sakura/10 Rose Villain feat. Guè - COME UN TUONO.flac"
+            },
+            {
+              "number": 11,
+              "title": "IO, ME ED ALTRI GUAI",
+              "duration_s": 177,
+              "path": "Rose Villain/Radio Sakura/11 Rose Villain - IO, ME ED ALTRI GUAI.flac"
+            },
+            {
+              "number": 12,
+              "title": "MILANO ALMENO TU",
+              "duration_s": 172,
+              "path": "Rose Villain/Radio Sakura/12 Rose Villain - MILANO ALMENO TU.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "albums": [
+        {
+          "name": "1989",
+          "year": "2014-10-27",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Welcome to New York",
+              "duration_s": 212,
+              "path": "Taylor Swift/1989/01 Welcome to New York.flac"
+            },
+            {
+              "number": 2,
+              "title": "Blank Space",
+              "duration_s": 231,
+              "path": "Taylor Swift/1989/02 Blank Space.flac"
+            },
+            {
+              "number": 3,
+              "title": "Style",
+              "duration_s": 231,
+              "path": "Taylor Swift/1989/03 Style.flac"
+            },
+            {
+              "number": 4,
+              "title": "Out of the Woods",
+              "duration_s": 235,
+              "path": "Taylor Swift/1989/04 Out of the Woods.flac"
+            },
+            {
+              "number": 5,
+              "title": "All You Had to Do Was Stay",
+              "duration_s": 193,
+              "path": "Taylor Swift/1989/05 All You Had to Do Was Stay.flac"
+            },
+            {
+              "number": 6,
+              "title": "Shake It Off",
+              "duration_s": 219,
+              "path": "Taylor Swift/1989/06 Shake It Off.flac"
+            },
+            {
+              "number": 7,
+              "title": "I Wish You Would",
+              "duration_s": 207,
+              "path": "Taylor Swift/1989/07 I Wish You Would.flac"
+            },
+            {
+              "number": 8,
+              "title": "Bad Blood",
+              "duration_s": 211,
+              "path": "Taylor Swift/1989/08 Bad Blood.flac"
+            },
+            {
+              "number": 9,
+              "title": "Wildest Dreams",
+              "duration_s": 220,
+              "path": "Taylor Swift/1989/09 Wildest Dreams.flac"
+            },
+            {
+              "number": 10,
+              "title": "How You Get the Girl",
+              "duration_s": 247,
+              "path": "Taylor Swift/1989/10 How You Get the Girl.flac"
+            },
+            {
+              "number": 11,
+              "title": "This Love",
+              "duration_s": 250,
+              "path": "Taylor Swift/1989/11 This Love.flac"
+            },
+            {
+              "number": 12,
+              "title": "I Know Places",
+              "duration_s": 195,
+              "path": "Taylor Swift/1989/12 I Know Places.flac"
+            },
+            {
+              "number": 13,
+              "title": "Clean",
+              "duration_s": 271,
+              "path": "Taylor Swift/1989/13 Clean.flac"
+            }
+          ]
+        },
+        {
+          "name": "1989 (Taylor’s version)",
+          "year": "2023-10-27",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Welcome to New York (Taylor’s version)",
+              "duration_s": 212,
+              "path": "Taylor Swift/1989 (Taylor’s version)/01 Welcome to New York (Taylor’s version).flac"
+            },
+            {
+              "number": 2,
+              "title": "Blank Space (Taylor’s version)",
+              "duration_s": 231,
+              "path": "Taylor Swift/1989 (Taylor’s version)/02 Blank Space (Taylor’s version).flac"
+            },
+            {
+              "number": 3,
+              "title": "Style (Taylor’s version)",
+              "duration_s": 231,
+              "path": "Taylor Swift/1989 (Taylor’s version)/03 Style (Taylor’s version).flac"
+            },
+            {
+              "number": 4,
+              "title": "Out of the Woods (Taylor’s version)",
+              "duration_s": 235,
+              "path": "Taylor Swift/1989 (Taylor’s version)/04 Out of the Woods (Taylor’s version).flac"
+            },
+            {
+              "number": 5,
+              "title": "All You Had to Do Was Stay (Taylor’s version)",
+              "duration_s": 193,
+              "path": "Taylor Swift/1989 (Taylor’s version)/05 All You Had to Do Was Stay (Taylor’s version).flac"
+            },
+            {
+              "number": 6,
+              "title": "Shake It Off (Taylor’s version)",
+              "duration_s": 219,
+              "path": "Taylor Swift/1989 (Taylor’s version)/06 Shake It Off (Taylor’s version).flac"
+            },
+            {
+              "number": 7,
+              "title": "I Wish You Would (Taylor’s version)",
+              "duration_s": 207,
+              "path": "Taylor Swift/1989 (Taylor’s version)/07 I Wish You Would (Taylor’s version).flac"
+            },
+            {
+              "number": 8,
+              "title": "Bad Blood (Taylor’s version)",
+              "duration_s": 211,
+              "path": "Taylor Swift/1989 (Taylor’s version)/08 Bad Blood (Taylor’s version).flac"
+            },
+            {
+              "number": 9,
+              "title": "Wildest Dreams (Taylor’s version)",
+              "duration_s": 220,
+              "path": "Taylor Swift/1989 (Taylor’s version)/09 Wildest Dreams (Taylor’s version).flac"
+            },
+            {
+              "number": 10,
+              "title": "How You Get the Girl (Taylor’s version)",
+              "duration_s": 247,
+              "path": "Taylor Swift/1989 (Taylor’s version)/10 How You Get the Girl (Taylor’s version).flac"
+            },
+            {
+              "number": 11,
+              "title": "This Love (Taylor’s version)",
+              "duration_s": 250,
+              "path": "Taylor Swift/1989 (Taylor’s version)/11 This Love (Taylor’s version).flac"
+            },
+            {
+              "number": 12,
+              "title": "I Know Places (Taylor’s version)",
+              "duration_s": 195,
+              "path": "Taylor Swift/1989 (Taylor’s version)/12 I Know Places (Taylor’s version).flac"
+            },
+            {
+              "number": 13,
+              "title": "Clean (Taylor’s version)",
+              "duration_s": 271,
+              "path": "Taylor Swift/1989 (Taylor’s version)/13 Clean (Taylor’s version).flac"
+            },
+            {
+              "number": 14,
+              "title": "Wonderland (Taylor’s version)",
+              "duration_s": 245,
+              "path": "Taylor Swift/1989 (Taylor’s version)/14 Wonderland (Taylor’s version).flac"
+            },
+            {
+              "number": 15,
+              "title": "You Are in Love (Taylor’s version)",
+              "duration_s": 267,
+              "path": "Taylor Swift/1989 (Taylor’s version)/15 You Are in Love (Taylor’s version).flac"
+            },
+            {
+              "number": 16,
+              "title": "New Romantics (Taylor’s version)",
+              "duration_s": 230,
+              "path": "Taylor Swift/1989 (Taylor’s version)/16 New Romantics (Taylor’s version).flac"
+            },
+            {
+              "number": 17,
+              "title": "“Slut!” (Taylor’s version) (from The Vault)",
+              "duration_s": 180,
+              "path": "Taylor Swift/1989 (Taylor’s version)/17 “Slut!” (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 18,
+              "title": "Say Don’t Go (Taylor’s version) (from The Vault)",
+              "duration_s": 279,
+              "path": "Taylor Swift/1989 (Taylor’s version)/18 Say Don’t Go (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 19,
+              "title": "Now That We Don’t Talk (Taylor’s version) (from The Vault)",
+              "duration_s": 146,
+              "path": "Taylor Swift/1989 (Taylor’s version)/19 Now That We Don’t Talk (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 20,
+              "title": "Suburban Legends (Taylor’s version) (from The Vault)",
+              "duration_s": 171,
+              "path": "Taylor Swift/1989 (Taylor’s version)/20 Suburban Legends (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 21,
+              "title": "Is It Over Now? (Taylor’s version) (from The Vault)",
+              "duration_s": 229,
+              "path": "Taylor Swift/1989 (Taylor’s version)/21 Is It Over Now_ (Taylor’s version) (from The Vault).flac"
+            }
+          ]
+        },
+        {
+          "name": "Fearless (Taylor’s version)",
+          "year": "2021-04-09",
+          "genre": "Country",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Fearless (Taylor’s version)",
+              "duration_s": 241,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/01 Taylor Swift - Fearless (Taylor’s version).flac"
+            },
+            {
+              "number": 2,
+              "title": "Fifteen (Taylor’s version)",
+              "duration_s": 294,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/02 Taylor Swift - Fifteen (Taylor’s version).flac"
+            },
+            {
+              "number": 3,
+              "title": "Love Story (Taylor’s version)",
+              "duration_s": 235,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/03 Taylor Swift - Love Story (Taylor’s version).flac"
+            },
+            {
+              "number": 4,
+              "title": "Hey Stephen (Taylor’s version)",
+              "duration_s": 254,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/04 Taylor Swift - Hey Stephen (Taylor’s version).flac"
+            },
+            {
+              "number": 5,
+              "title": "White Horse (Taylor’s version)",
+              "duration_s": 234,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/05 Taylor Swift - White Horse (Taylor’s version).flac"
+            },
+            {
+              "number": 6,
+              "title": "You Belong With Me (Taylor’s version)",
+              "duration_s": 231,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/06 Taylor Swift - You Belong With Me (Taylor’s version).flac"
+            },
+            {
+              "number": 7,
+              "title": "Breathe (Taylor’s version)",
+              "duration_s": 263,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/07 Taylor Swift feat. Colbie Caillat - Breathe (Taylor’s version).flac"
+            },
+            {
+              "number": 8,
+              "title": "Tell Me Why (Taylor’s version)",
+              "duration_s": 200,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/08 Taylor Swift - Tell Me Why (Taylor’s version).flac"
+            },
+            {
+              "number": 9,
+              "title": "You’re Not Sorry (Taylor’s version)",
+              "duration_s": 261,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/09 Taylor Swift - You’re Not Sorry (Taylor’s version).flac"
+            },
+            {
+              "number": 10,
+              "title": "The Way I Loved You (Taylor’s version)",
+              "duration_s": 243,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/10 Taylor Swift - The Way I Loved You (Taylor’s version).flac"
+            },
+            {
+              "number": 11,
+              "title": "Forever & Always (Taylor’s version)",
+              "duration_s": 225,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/11 Taylor Swift - Forever & Always (Taylor’s version).flac"
+            },
+            {
+              "number": 12,
+              "title": "The Best Day (Taylor’s version)",
+              "duration_s": 245,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/12 Taylor Swift - The Best Day (Taylor’s version).flac"
+            },
+            {
+              "number": 13,
+              "title": "Change (Taylor’s version)",
+              "duration_s": 279,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/13 Taylor Swift - Change (Taylor’s version).flac"
+            },
+            {
+              "number": 14,
+              "title": "Jump Then Fall (Taylor’s version)",
+              "duration_s": 237,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/14 Taylor Swift - Jump Then Fall (Taylor’s version).flac"
+            },
+            {
+              "number": 15,
+              "title": "Untouchable (Taylor’s version)",
+              "duration_s": 312,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/15 Taylor Swift - Untouchable (Taylor’s version).flac"
+            },
+            {
+              "number": 16,
+              "title": "Forever & Always (piano version) (Taylor’s version)",
+              "duration_s": 267,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/16 Taylor Swift - Forever & Always (piano version) (Taylor’s version).flac"
+            },
+            {
+              "number": 17,
+              "title": "Come In With the Rain (Taylor’s version)",
+              "duration_s": 237,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/17 Taylor Swift - Come In With the Rain (Taylor’s version).flac"
+            },
+            {
+              "number": 18,
+              "title": "Superstar (Taylor’s version)",
+              "duration_s": 263,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/18 Taylor Swift - Superstar (Taylor’s version).flac"
+            },
+            {
+              "number": 19,
+              "title": "The Other Side of the Door (Taylor’s version)",
+              "duration_s": 238,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/19 Taylor Swift - The Other Side of the Door (Taylor’s version).flac"
+            },
+            {
+              "number": 20,
+              "title": "Today Was a Fairytale (Taylor’s version)",
+              "duration_s": 241,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/20 Taylor Swift - Today Was a Fairytale (Taylor’s version).flac"
+            },
+            {
+              "number": 21,
+              "title": "You All Over Me (Taylor’s version) (from The Vault)",
+              "duration_s": 220,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/21 Taylor Swift feat. Maren Morris - You All Over Me (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 22,
+              "title": "Mr. Perfectly Fine (Taylor’s version) (from The Vault)",
+              "duration_s": 277,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/22 Taylor Swift - Mr. Perfectly Fine (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 23,
+              "title": "We Were Happy (Taylor’s version) (from The Vault)",
+              "duration_s": 244,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/23 Taylor Swift - We Were Happy (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 24,
+              "title": "That’s When (Taylor’s version) (from The Vault)",
+              "duration_s": 189,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/24 Taylor Swift feat. Keith Urban - That’s When (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 25,
+              "title": "Don’t You (Taylor’s version) (from The Vault)",
+              "duration_s": 208,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/25 Taylor Swift - Don’t You (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 26,
+              "title": "Bye Bye Baby (Taylor’s version) (from The Vault)",
+              "duration_s": 242,
+              "path": "Taylor Swift/Fearless (Taylor’s version)/26 Taylor Swift - Bye Bye Baby (Taylor’s version) (from The Vault).flac"
+            }
+          ]
+        },
+        {
+          "name": "Fearless (platinum edition)",
+          "year": "2009-10-26",
+          "genre": "Country",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Jump Then Fall",
+              "duration_s": 237,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-01 Taylor Swift - Jump Then Fall.flac"
+            },
+            {
+              "number": 2,
+              "title": "Untouchable",
+              "duration_s": 311,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-02 Taylor Swift - Untouchable.flac"
+            },
+            {
+              "number": 3,
+              "title": "Forever & Always (piano version)",
+              "duration_s": 267,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-03 Taylor Swift - Forever & Always (piano version).flac"
+            },
+            {
+              "number": 4,
+              "title": "Come In With the Rain",
+              "duration_s": 238,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-04 Taylor Swift - Come In With the Rain.flac"
+            },
+            {
+              "number": 5,
+              "title": "SuperStar",
+              "duration_s": 261,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-05 Taylor Swift - SuperStar.flac"
+            },
+            {
+              "number": 6,
+              "title": "The Other Side of the Door",
+              "duration_s": 237,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-06 Taylor Swift - The Other Side of the Door.flac"
+            },
+            {
+              "number": 7,
+              "title": "Fearless",
+              "duration_s": 242,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-07 Taylor Swift - Fearless.flac"
+            },
+            {
+              "number": 8,
+              "title": "Fifteen",
+              "duration_s": 294,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-08 Taylor Swift - Fifteen.flac"
+            },
+            {
+              "number": 9,
+              "title": "Love Story",
+              "duration_s": 235,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-09 Taylor Swift - Love Story.flac"
+            },
+            {
+              "number": 10,
+              "title": "Hey Stephen",
+              "duration_s": 254,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-10 Taylor Swift - Hey Stephen.flac"
+            },
+            {
+              "number": 11,
+              "title": "White Horse",
+              "duration_s": 234,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-11 Taylor Swift - White Horse.flac"
+            },
+            {
+              "number": 12,
+              "title": "You Belong With Me",
+              "duration_s": 231,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-12 Taylor Swift - You Belong With Me.flac"
+            },
+            {
+              "number": 13,
+              "title": "Breathe",
+              "duration_s": 263,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-13 Taylor Swift featuring Colbie Caillat - Breathe.flac"
+            },
+            {
+              "number": 14,
+              "title": "Tell Me Why",
+              "duration_s": 200,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-14 Taylor Swift - Tell Me Why.flac"
+            },
+            {
+              "number": 15,
+              "title": "You’re Not Sorry",
+              "duration_s": 261,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-15 Taylor Swift - You’re Not Sorry.flac"
+            },
+            {
+              "number": 16,
+              "title": "The Way I Loved You",
+              "duration_s": 244,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-16 Taylor Swift - The Way I Loved You.flac"
+            },
+            {
+              "number": 17,
+              "title": "Forever & Always",
+              "duration_s": 225,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-17 Taylor Swift - Forever & Always.flac"
+            },
+            {
+              "number": 18,
+              "title": "The Best Day",
+              "duration_s": 245,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-18 Taylor Swift - The Best Day.flac"
+            },
+            {
+              "number": 19,
+              "title": "Change",
+              "duration_s": 281,
+              "path": "Taylor Swift/Fearless (platinum edition)/1-19 Taylor Swift - Change.flac"
+            }
+          ]
+        },
+        {
+          "name": "Lover",
+          "year": "2019-08-23",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "I Forgot That You Existed",
+              "duration_s": 170,
+              "path": "Taylor Swift/Lover/01 Taylor Swift - I Forgot That You Existed.flac"
+            },
+            {
+              "number": 2,
+              "title": "Cruel Summer",
+              "duration_s": 178,
+              "path": "Taylor Swift/Lover/02 Taylor Swift - Cruel Summer.flac"
+            },
+            {
+              "number": 3,
+              "title": "Lover",
+              "duration_s": 221,
+              "path": "Taylor Swift/Lover/03 Taylor Swift - Lover.flac"
+            },
+            {
+              "number": 4,
+              "title": "The Man",
+              "duration_s": 190,
+              "path": "Taylor Swift/Lover/04 Taylor Swift - The Man.flac"
+            },
+            {
+              "number": 5,
+              "title": "The Archer",
+              "duration_s": 211,
+              "path": "Taylor Swift/Lover/05 Taylor Swift - The Archer.flac"
+            },
+            {
+              "number": 6,
+              "title": "I Think He Knows",
+              "duration_s": 173,
+              "path": "Taylor Swift/Lover/06 Taylor Swift - I Think He Knows.flac"
+            },
+            {
+              "number": 7,
+              "title": "Miss Americana & the Heartbreak Prince",
+              "duration_s": 234,
+              "path": "Taylor Swift/Lover/07 Taylor Swift - Miss Americana & the Heartbreak Prince.flac"
+            },
+            {
+              "number": 8,
+              "title": "Paper Rings",
+              "duration_s": 222,
+              "path": "Taylor Swift/Lover/08 Taylor Swift - Paper Rings.flac"
+            },
+            {
+              "number": 9,
+              "title": "Cornelia Street",
+              "duration_s": 287,
+              "path": "Taylor Swift/Lover/09 Taylor Swift - Cornelia Street.flac"
+            },
+            {
+              "number": 10,
+              "title": "Death by a Thousand Cuts",
+              "duration_s": 198,
+              "path": "Taylor Swift/Lover/10 Taylor Swift - Death by a Thousand Cuts.flac"
+            },
+            {
+              "number": 11,
+              "title": "London Boy",
+              "duration_s": 190,
+              "path": "Taylor Swift/Lover/11 Taylor Swift - London Boy.flac"
+            },
+            {
+              "number": 12,
+              "title": "Soon You’ll Get Better",
+              "duration_s": 201,
+              "path": "Taylor Swift/Lover/12 Taylor Swift feat. Dixie Chicks - Soon You’ll Get Better.flac"
+            },
+            {
+              "number": 13,
+              "title": "False God",
+              "duration_s": 200,
+              "path": "Taylor Swift/Lover/13 Taylor Swift - False God.flac"
+            },
+            {
+              "number": 14,
+              "title": "You Need to Calm Down",
+              "duration_s": 171,
+              "path": "Taylor Swift/Lover/14 Taylor Swift - You Need to Calm Down.flac"
+            },
+            {
+              "number": 15,
+              "title": "Afterglow",
+              "duration_s": 223,
+              "path": "Taylor Swift/Lover/15 Taylor Swift - Afterglow.flac"
+            },
+            {
+              "number": 16,
+              "title": "ME!",
+              "duration_s": 193,
+              "path": "Taylor Swift/Lover/16 Taylor Swift feat. Brendon Urie of Panic! at the Disco - ME!.flac"
+            },
+            {
+              "number": 17,
+              "title": "It’s Nice to Have a Friend",
+              "duration_s": 150,
+              "path": "Taylor Swift/Lover/17 Taylor Swift - It’s Nice to Have a Friend.flac"
+            },
+            {
+              "number": 18,
+              "title": "Daylight",
+              "duration_s": 293,
+              "path": "Taylor Swift/Lover/18 Taylor Swift - Daylight.flac"
+            }
+          ]
+        },
+        {
+          "name": "Midnights",
+          "year": "2022-10-21",
+          "genre": "Alternative Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Lavender Haze",
+              "duration_s": 202,
+              "path": "Taylor Swift/Midnights/01 Taylor Swift - Lavender Haze.flac"
+            },
+            {
+              "number": 2,
+              "title": "Maroon",
+              "duration_s": 218,
+              "path": "Taylor Swift/Midnights/02 Taylor Swift - Maroon.flac"
+            },
+            {
+              "number": 3,
+              "title": "Anti‐Hero",
+              "duration_s": 200,
+              "path": "Taylor Swift/Midnights/03 Taylor Swift - Anti‐Hero.flac"
+            },
+            {
+              "number": 4,
+              "title": "Snow on the Beach",
+              "duration_s": 256,
+              "path": "Taylor Swift/Midnights/04 Taylor Swift feat. Lana Del Rey - Snow on the Beach.flac"
+            },
+            {
+              "number": 5,
+              "title": "You’re on Your Own, Kid",
+              "duration_s": 194,
+              "path": "Taylor Swift/Midnights/05 Taylor Swift - You’re on Your Own, Kid.flac"
+            },
+            {
+              "number": 6,
+              "title": "Midnight Rain",
+              "duration_s": 174,
+              "path": "Taylor Swift/Midnights/06 Taylor Swift - Midnight Rain.flac"
+            },
+            {
+              "number": 7,
+              "title": "Question…?",
+              "duration_s": 210,
+              "path": "Taylor Swift/Midnights/07 Taylor Swift - Question…_.flac"
+            },
+            {
+              "number": 8,
+              "title": "Vigilante Shit",
+              "duration_s": 164,
+              "path": "Taylor Swift/Midnights/08 Taylor Swift - Vigilante Shit.flac"
+            },
+            {
+              "number": 9,
+              "title": "Bejeweled",
+              "duration_s": 194,
+              "path": "Taylor Swift/Midnights/09 Taylor Swift - Bejeweled.flac"
+            },
+            {
+              "number": 10,
+              "title": "Labyrinth",
+              "duration_s": 247,
+              "path": "Taylor Swift/Midnights/10 Taylor Swift - Labyrinth.flac"
+            },
+            {
+              "number": 11,
+              "title": "Karma",
+              "duration_s": 204,
+              "path": "Taylor Swift/Midnights/11 Taylor Swift - Karma.flac"
+            },
+            {
+              "number": 12,
+              "title": "Sweet Nothing",
+              "duration_s": 188,
+              "path": "Taylor Swift/Midnights/12 Taylor Swift - Sweet Nothing.flac"
+            },
+            {
+              "number": 13,
+              "title": "Mastermind",
+              "duration_s": 191,
+              "path": "Taylor Swift/Midnights/13 Taylor Swift - Mastermind.flac"
+            }
+          ]
+        },
+        {
+          "name": "Red",
+          "year": "2012",
+          "genre": "Country",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "State of Grace",
+              "duration_s": 295,
+              "path": "Taylor Swift/Red/01 Taylor Swift - State of Grace.flac"
+            },
+            {
+              "number": 2,
+              "title": "Red",
+              "duration_s": 223,
+              "path": "Taylor Swift/Red/02 Taylor Swift - Red.flac"
+            },
+            {
+              "number": 3,
+              "title": "Treacherous",
+              "duration_s": 242,
+              "path": "Taylor Swift/Red/03 Taylor Swift - Treacherous.flac"
+            },
+            {
+              "number": 4,
+              "title": "I Knew You Were Trouble.",
+              "duration_s": 219,
+              "path": "Taylor Swift/Red/04 Taylor Swift - I Knew You Were Trouble..flac"
+            },
+            {
+              "number": 5,
+              "title": "All Too Well",
+              "duration_s": 329,
+              "path": "Taylor Swift/Red/05 Taylor Swift - All Too Well.flac"
+            },
+            {
+              "number": 6,
+              "title": "22",
+              "duration_s": 232,
+              "path": "Taylor Swift/Red/06 Taylor Swift - 22.flac"
+            },
+            {
+              "number": 7,
+              "title": "I Almost Do",
+              "duration_s": 244,
+              "path": "Taylor Swift/Red/07 Taylor Swift - I Almost Do.flac"
+            },
+            {
+              "number": 8,
+              "title": "We Are Never Ever Getting Back Together",
+              "duration_s": 193,
+              "path": "Taylor Swift/Red/08 Taylor Swift - We Are Never Ever Getting Back Together.flac"
+            },
+            {
+              "number": 9,
+              "title": "Stay Stay Stay",
+              "duration_s": 205,
+              "path": "Taylor Swift/Red/09 Taylor Swift - Stay Stay Stay.flac"
+            },
+            {
+              "number": 10,
+              "title": "The Last Time",
+              "duration_s": 299,
+              "path": "Taylor Swift/Red/10 Taylor Swift featuring Gary Lightbody - The Last Time.flac"
+            },
+            {
+              "number": 11,
+              "title": "Holy Ground",
+              "duration_s": 202,
+              "path": "Taylor Swift/Red/11 Taylor Swift - Holy Ground.flac"
+            },
+            {
+              "number": 12,
+              "title": "Sad Beautiful Tragic",
+              "duration_s": 284,
+              "path": "Taylor Swift/Red/12 Taylor Swift - Sad Beautiful Tragic.flac"
+            },
+            {
+              "number": 13,
+              "title": "The Lucky One",
+              "duration_s": 240,
+              "path": "Taylor Swift/Red/13 Taylor Swift - The Lucky One.flac"
+            },
+            {
+              "number": 14,
+              "title": "Everything Has Changed",
+              "duration_s": 245,
+              "path": "Taylor Swift/Red/14 Taylor Swift featuring Ed Sheeran - Everything Has Changed.flac"
+            },
+            {
+              "number": 15,
+              "title": "Starlight",
+              "duration_s": 220,
+              "path": "Taylor Swift/Red/15 Taylor Swift - Starlight.flac"
+            },
+            {
+              "number": 16,
+              "title": "Begin Again",
+              "duration_s": 237,
+              "path": "Taylor Swift/Red/16 Taylor Swift - Begin Again.flac"
+            }
+          ]
+        },
+        {
+          "name": "Red (Taylor’s version)",
+          "year": "2021-11-12",
+          "genre": "Country Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "State of Grace (Taylor’s version)",
+              "duration_s": 295,
+              "path": "Taylor Swift/Red (Taylor’s version)/01 Taylor Swift - State of Grace (Taylor’s version).flac"
+            },
+            {
+              "number": 2,
+              "title": "Red (Taylor’s version)",
+              "duration_s": 223,
+              "path": "Taylor Swift/Red (Taylor’s version)/02 Taylor Swift - Red (Taylor’s version).flac"
+            },
+            {
+              "number": 3,
+              "title": "Treacherous (Taylor’s version)",
+              "duration_s": 242,
+              "path": "Taylor Swift/Red (Taylor’s version)/03 Taylor Swift - Treacherous (Taylor’s version).flac"
+            },
+            {
+              "number": 4,
+              "title": "I Knew You Were Trouble (Taylor’s version)",
+              "duration_s": 219,
+              "path": "Taylor Swift/Red (Taylor’s version)/04 Taylor Swift - I Knew You Were Trouble (Taylor’s version).flac"
+            },
+            {
+              "number": 5,
+              "title": "All Too Well (Taylor’s version)",
+              "duration_s": 329,
+              "path": "Taylor Swift/Red (Taylor’s version)/05 Taylor Swift - All Too Well (Taylor’s version).flac"
+            },
+            {
+              "number": 6,
+              "title": "22 (Taylor’s version)",
+              "duration_s": 230,
+              "path": "Taylor Swift/Red (Taylor’s version)/06 Taylor Swift - 22 (Taylor’s version).flac"
+            },
+            {
+              "number": 7,
+              "title": "I Almost Do (Taylor’s version)",
+              "duration_s": 244,
+              "path": "Taylor Swift/Red (Taylor’s version)/07 Taylor Swift - I Almost Do (Taylor’s version).flac"
+            },
+            {
+              "number": 8,
+              "title": "We Are Never Ever Getting Back Together (Taylor’s version)",
+              "duration_s": 193,
+              "path": "Taylor Swift/Red (Taylor’s version)/08 Taylor Swift - We Are Never Ever Getting Back Together (Taylor’s version).flac"
+            },
+            {
+              "number": 9,
+              "title": "Stay Stay Stay (Taylor’s version)",
+              "duration_s": 205,
+              "path": "Taylor Swift/Red (Taylor’s version)/09 Taylor Swift - Stay Stay Stay (Taylor’s version).flac"
+            },
+            {
+              "number": 10,
+              "title": "The Last Time (Taylor’s version)",
+              "duration_s": 299,
+              "path": "Taylor Swift/Red (Taylor’s version)/10 Taylor Swift feat. Gary Lightbody - The Last Time (Taylor’s version).flac"
+            },
+            {
+              "number": 11,
+              "title": "Holy Ground (Taylor’s version)",
+              "duration_s": 202,
+              "path": "Taylor Swift/Red (Taylor’s version)/11 Taylor Swift - Holy Ground (Taylor’s version).flac"
+            },
+            {
+              "number": 12,
+              "title": "Sad Beautiful Tragic (Taylor’s version)",
+              "duration_s": 284,
+              "path": "Taylor Swift/Red (Taylor’s version)/12 Taylor Swift - Sad Beautiful Tragic (Taylor’s version).flac"
+            },
+            {
+              "number": 13,
+              "title": "The Lucky One (Taylor’s version)",
+              "duration_s": 240,
+              "path": "Taylor Swift/Red (Taylor’s version)/13 Taylor Swift - The Lucky One (Taylor’s version).flac"
+            },
+            {
+              "number": 14,
+              "title": "Everything Has Changed (Taylor’s version)",
+              "duration_s": 245,
+              "path": "Taylor Swift/Red (Taylor’s version)/14 Taylor Swift feat. Ed Sheeran - Everything Has Changed (Taylor’s version).flac"
+            },
+            {
+              "number": 15,
+              "title": "Starlight (Taylor’s version)",
+              "duration_s": 220,
+              "path": "Taylor Swift/Red (Taylor’s version)/15 Taylor Swift - Starlight (Taylor’s version).flac"
+            },
+            {
+              "number": 16,
+              "title": "Begin Again (Taylor’s version)",
+              "duration_s": 238,
+              "path": "Taylor Swift/Red (Taylor’s version)/16 Taylor Swift - Begin Again (Taylor’s version).flac"
+            },
+            {
+              "number": 17,
+              "title": "The Moment I Knew (Taylor’s version)",
+              "duration_s": 285,
+              "path": "Taylor Swift/Red (Taylor’s version)/17 Taylor Swift - The Moment I Knew (Taylor’s version).flac"
+            },
+            {
+              "number": 18,
+              "title": "Come Back… Be Here (Taylor’s version)",
+              "duration_s": 223,
+              "path": "Taylor Swift/Red (Taylor’s version)/18 Taylor Swift - Come Back… Be Here (Taylor’s version).flac"
+            },
+            {
+              "number": 19,
+              "title": "Girl at Home (Taylor’s version)",
+              "duration_s": 220,
+              "path": "Taylor Swift/Red (Taylor’s version)/19 Taylor Swift - Girl at Home (Taylor’s version).flac"
+            },
+            {
+              "number": 20,
+              "title": "State of Grace (acoustic version) (Taylor’s version)",
+              "duration_s": 321,
+              "path": "Taylor Swift/Red (Taylor’s version)/20 Taylor Swift - State of Grace (acoustic version) (Taylor’s version).flac"
+            },
+            {
+              "number": 21,
+              "title": "Ronan (Taylor’s version)",
+              "duration_s": 264,
+              "path": "Taylor Swift/Red (Taylor’s version)/21 Taylor Swift - Ronan (Taylor’s version).flac"
+            },
+            {
+              "number": 22,
+              "title": "Better Man (Taylor’s version) (from The Vault)",
+              "duration_s": 297,
+              "path": "Taylor Swift/Red (Taylor’s version)/22 Taylor Swift - Better Man (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 23,
+              "title": "Nothing New (Taylor’s Version) (from The Vault)",
+              "duration_s": 258,
+              "path": "Taylor Swift/Red (Taylor’s version)/23 Taylor Swift feat. Phoebe Bridgers - Nothing New (Taylor’s Version) (from The Vault).flac"
+            },
+            {
+              "number": 24,
+              "title": "Babe (Taylor’s version) (from The Vault)",
+              "duration_s": 224,
+              "path": "Taylor Swift/Red (Taylor’s version)/24 Taylor Swift - Babe (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 25,
+              "title": "Message in a Bottle (Taylor’s version) (from The Vault)",
+              "duration_s": 225,
+              "path": "Taylor Swift/Red (Taylor’s version)/25 Taylor Swift - Message in a Bottle (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 26,
+              "title": "I Bet You Think About Me (Taylor’s version) (from The Vault)",
+              "duration_s": 285,
+              "path": "Taylor Swift/Red (Taylor’s version)/26 Taylor Swift feat. Chris Stapleton - I Bet You Think About Me (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 27,
+              "title": "Forever Winter (Taylor’s version) (from The Vault)",
+              "duration_s": 263,
+              "path": "Taylor Swift/Red (Taylor’s version)/27 Taylor Swift - Forever Winter (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 28,
+              "title": "Run (Taylor’s version) (from The Vault)",
+              "duration_s": 240,
+              "path": "Taylor Swift/Red (Taylor’s version)/28 Taylor Swift feat. Ed Sheeran - Run (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 29,
+              "title": "The Very First Night (Taylor’s version) (from The Vault)",
+              "duration_s": 200,
+              "path": "Taylor Swift/Red (Taylor’s version)/29 Taylor Swift - The Very First Night (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 30,
+              "title": "All Too Well (10 minute version) (Taylor’s version) (from The Vault)",
+              "duration_s": 613,
+              "path": "Taylor Swift/Red (Taylor’s version)/30 Taylor Swift - All Too Well (10 minute version) (Taylor’s version) (from The Vault).flac"
+            }
+          ]
+        },
+        {
+          "name": "Speak Now",
+          "year": "2010-10-25",
+          "genre": "Country",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Mine",
+              "duration_s": 230,
+              "path": "Taylor Swift/Speak Now/01 Mine.flac"
+            },
+            {
+              "number": 2,
+              "title": "Sparks Fly",
+              "duration_s": 260,
+              "path": "Taylor Swift/Speak Now/02 Sparks Fly.flac"
+            },
+            {
+              "number": 3,
+              "title": "Back to December",
+              "duration_s": 293,
+              "path": "Taylor Swift/Speak Now/03 Back to December.flac"
+            },
+            {
+              "number": 4,
+              "title": "Speak Now",
+              "duration_s": 240,
+              "path": "Taylor Swift/Speak Now/04 Speak Now.flac"
+            },
+            {
+              "number": 5,
+              "title": "Dear John",
+              "duration_s": 403,
+              "path": "Taylor Swift/Speak Now/05 Dear John.flac"
+            },
+            {
+              "number": 6,
+              "title": "Mean",
+              "duration_s": 237,
+              "path": "Taylor Swift/Speak Now/06 Mean.flac"
+            },
+            {
+              "number": 7,
+              "title": "The Story of Us",
+              "duration_s": 265,
+              "path": "Taylor Swift/Speak Now/07 The Story of Us.flac"
+            },
+            {
+              "number": 8,
+              "title": "Never Grow Up",
+              "duration_s": 290,
+              "path": "Taylor Swift/Speak Now/08 Never Grow Up.flac"
+            },
+            {
+              "number": 9,
+              "title": "Enchanted",
+              "duration_s": 352,
+              "path": "Taylor Swift/Speak Now/09 Enchanted.flac"
+            },
+            {
+              "number": 10,
+              "title": "Better Than Revenge",
+              "duration_s": 217,
+              "path": "Taylor Swift/Speak Now/10 Better Than Revenge.flac"
+            },
+            {
+              "number": 11,
+              "title": "Innocent",
+              "duration_s": 302,
+              "path": "Taylor Swift/Speak Now/11 Innocent.flac"
+            },
+            {
+              "number": 12,
+              "title": "Haunted",
+              "duration_s": 242,
+              "path": "Taylor Swift/Speak Now/12 Haunted.flac"
+            },
+            {
+              "number": 13,
+              "title": "Last Kiss",
+              "duration_s": 367,
+              "path": "Taylor Swift/Speak Now/13 Last Kiss.flac"
+            },
+            {
+              "number": 14,
+              "title": "Long Live",
+              "duration_s": 317,
+              "path": "Taylor Swift/Speak Now/14 Long Live.flac"
+            }
+          ]
+        },
+        {
+          "name": "Speak Now (Taylor’s version)",
+          "year": "2023-07-07",
+          "genre": "Pop Rock",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Mine (Taylor’s version)",
+              "duration_s": 231,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/01 Taylor Swift - Mine (Taylor’s version).flac"
+            },
+            {
+              "number": 2,
+              "title": "Sparks Fly (Taylor’s version)",
+              "duration_s": 261,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/02 Taylor Swift - Sparks Fly (Taylor’s version).flac"
+            },
+            {
+              "number": 3,
+              "title": "Back to December (Taylor’s version)",
+              "duration_s": 294,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/03 Taylor Swift - Back to December (Taylor’s version).flac"
+            },
+            {
+              "number": 4,
+              "title": "Speak Now (Taylor’s version)",
+              "duration_s": 242,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/04 Taylor Swift - Speak Now (Taylor’s version).flac"
+            },
+            {
+              "number": 5,
+              "title": "Dear John (Taylor’s version)",
+              "duration_s": 405,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/05 Taylor Swift - Dear John (Taylor’s version).flac"
+            },
+            {
+              "number": 6,
+              "title": "Mean (Taylor’s version)",
+              "duration_s": 238,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/06 Taylor Swift - Mean (Taylor’s version).flac"
+            },
+            {
+              "number": 7,
+              "title": "The Story of Us (Taylor’s version)",
+              "duration_s": 267,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/07 Taylor Swift - The Story of Us (Taylor’s version).flac"
+            },
+            {
+              "number": 8,
+              "title": "Never Grow Up (Taylor’s version)",
+              "duration_s": 292,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/08 Taylor Swift - Never Grow Up (Taylor’s version).flac"
+            },
+            {
+              "number": 9,
+              "title": "Enchanted (Taylor’s version)",
+              "duration_s": 353,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/09 Taylor Swift - Enchanted (Taylor’s version).flac"
+            },
+            {
+              "number": 10,
+              "title": "Better Than Revenge (Taylor’s version)",
+              "duration_s": 220,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/10 Taylor Swift - Better Than Revenge (Taylor’s version).flac"
+            },
+            {
+              "number": 11,
+              "title": "Innocent (Taylor’s version)",
+              "duration_s": 301,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/11 Taylor Swift - Innocent (Taylor’s version).flac"
+            },
+            {
+              "number": 12,
+              "title": "Haunted (Taylor’s version)",
+              "duration_s": 245,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/12 Taylor Swift - Haunted (Taylor’s version).flac"
+            },
+            {
+              "number": 13,
+              "title": "Last Kiss (Taylor’s version)",
+              "duration_s": 369,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/13 Taylor Swift - Last Kiss (Taylor’s version).flac"
+            },
+            {
+              "number": 14,
+              "title": "Long Live (Taylor’s version)",
+              "duration_s": 317,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/14 Taylor Swift - Long Live (Taylor’s version).flac"
+            },
+            {
+              "number": 15,
+              "title": "Ours (Taylor’s version)",
+              "duration_s": 235,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/15 Taylor Swift - Ours (Taylor’s version).flac"
+            },
+            {
+              "number": 16,
+              "title": "Superman (Taylor’s version)",
+              "duration_s": 274,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/16 Taylor Swift - Superman (Taylor’s version).flac"
+            },
+            {
+              "number": 17,
+              "title": "Electric Touch (Taylor’s version) (from The Vault)",
+              "duration_s": 266,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/17 Taylor Swift feat. Fall Out Boy - Electric Touch (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 18,
+              "title": "When Emma Falls in Love (Taylor’s version) (from The Vault)",
+              "duration_s": 252,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/18 Taylor Swift - When Emma Falls in Love (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 19,
+              "title": "I Can See You (Taylor’s version) (from The Vault)",
+              "duration_s": 273,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/19 Taylor Swift - I Can See You (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 20,
+              "title": "Castles Crumbling (Taylor’s version) (from The Vault)",
+              "duration_s": 306,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/20 Taylor Swift feat. Hayley Williams - Castles Crumbling (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 21,
+              "title": "Foolish One (Taylor’s version) (from The Vault)",
+              "duration_s": 311,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/21 Taylor Swift - Foolish One (Taylor’s version) (from The Vault).flac"
+            },
+            {
+              "number": 22,
+              "title": "Timeless (Taylor’s version) (from The Vault)",
+              "duration_s": 321,
+              "path": "Taylor Swift/Speak Now (Taylor’s version)/22 Taylor Swift - Timeless (Taylor’s version) (from The Vault).flac"
+            }
+          ]
+        },
+        {
+          "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+          "year": "2024-04-19",
+          "genre": "Alternative Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Fortnight",
+              "duration_s": 228,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/01 Taylor Swift feat. Post Malone - Fortnight.flac"
+            },
+            {
+              "number": 2,
+              "title": "The Tortured Poets Department",
+              "duration_s": 293,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/02 Taylor Swift - The Tortured Poets Department.flac"
+            },
+            {
+              "number": 3,
+              "title": "My Boy Only Breaks His Favorite Toys",
+              "duration_s": 203,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/03 Taylor Swift - My Boy Only Breaks His Favorite Toys.flac"
+            },
+            {
+              "number": 4,
+              "title": "Down Bad",
+              "duration_s": 261,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/04 Taylor Swift - Down Bad.flac"
+            },
+            {
+              "number": 5,
+              "title": "So Long, London",
+              "duration_s": 262,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/05 Taylor Swift - So Long, London.flac"
+            },
+            {
+              "number": 6,
+              "title": "But Daddy I Love Him",
+              "duration_s": 340,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/06 Taylor Swift - But Daddy I Love Him.flac"
+            },
+            {
+              "number": 7,
+              "title": "Fresh Out the Slammer",
+              "duration_s": 210,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/07 Taylor Swift - Fresh Out the Slammer.flac"
+            },
+            {
+              "number": 8,
+              "title": "Florida!!!",
+              "duration_s": 215,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/08 Taylor Swift feat. Florence + the Machine - Florida!!!.flac"
+            },
+            {
+              "number": 9,
+              "title": "Guilty as Sin?",
+              "duration_s": 254,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/09 Taylor Swift - Guilty as Sin_.flac"
+            },
+            {
+              "number": 10,
+              "title": "Who’s Afraid of Little Old Me?",
+              "duration_s": 334,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/10 Taylor Swift - Who’s Afraid of Little Old Me_.flac"
+            },
+            {
+              "number": 11,
+              "title": "I Can Fix Him (No Really I Can)",
+              "duration_s": 156,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/11 Taylor Swift - I Can Fix Him (No Really I Can).flac"
+            },
+            {
+              "number": 12,
+              "title": "loml",
+              "duration_s": 277,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/12 Taylor Swift - loml.flac"
+            },
+            {
+              "number": 13,
+              "title": "I Can Do It With a Broken Heart",
+              "duration_s": 218,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/13 Taylor Swift - I Can Do It With a Broken Heart.flac"
+            },
+            {
+              "number": 14,
+              "title": "The Smallest Man Who Ever Lived",
+              "duration_s": 245,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/14 Taylor Swift - The Smallest Man Who Ever Lived.flac"
+            },
+            {
+              "number": 15,
+              "title": "The Alchemy",
+              "duration_s": 196,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/15 Taylor Swift - The Alchemy.flac"
+            },
+            {
+              "number": 16,
+              "title": "Clara Bow",
+              "duration_s": 216,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/16 Taylor Swift - Clara Bow.flac"
+            },
+            {
+              "number": 17,
+              "title": "The Black Dog",
+              "duration_s": 238,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/17 Taylor Swift - The Black Dog.flac"
+            },
+            {
+              "number": 18,
+              "title": "imgonnagetyouback",
+              "duration_s": 222,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/18 Taylor Swift - imgonnagetyouback.flac"
+            },
+            {
+              "number": 19,
+              "title": "The Albatross",
+              "duration_s": 183,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/19 Taylor Swift - The Albatross.flac"
+            },
+            {
+              "number": 20,
+              "title": "Chloe or Sam or Sophia or Marcus",
+              "duration_s": 213,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/20 Taylor Swift - Chloe or Sam or Sophia or Marcus.flac"
+            },
+            {
+              "number": 21,
+              "title": "How Did It End?",
+              "duration_s": 238,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/21 Taylor Swift - How Did It End_.flac"
+            },
+            {
+              "number": 22,
+              "title": "So High School",
+              "duration_s": 228,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/22 Taylor Swift - So High School.flac"
+            },
+            {
+              "number": 23,
+              "title": "I Hate It Here",
+              "duration_s": 243,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/23 Taylor Swift - I Hate It Here.flac"
+            },
+            {
+              "number": 24,
+              "title": "thanK you aIMee",
+              "duration_s": 263,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/24 Taylor Swift - thanK you aIMee.flac"
+            },
+            {
+              "number": 25,
+              "title": "I Look in People’s Windows",
+              "duration_s": 131,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/25 Taylor Swift - I Look in People’s Windows.flac"
+            },
+            {
+              "number": 26,
+              "title": "The Prophecy",
+              "duration_s": 249,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/26 Taylor Swift - The Prophecy.flac"
+            },
+            {
+              "number": 27,
+              "title": "Cassandra",
+              "duration_s": 240,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/27 Taylor Swift - Cassandra.flac"
+            },
+            {
+              "number": 28,
+              "title": "Peter",
+              "duration_s": 283,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/28 Taylor Swift - Peter.flac"
+            },
+            {
+              "number": 29,
+              "title": "The Bolter",
+              "duration_s": 238,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/29 Taylor Swift - The Bolter.flac"
+            },
+            {
+              "number": 30,
+              "title": "Robin",
+              "duration_s": 240,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/30 Taylor Swift - Robin.flac"
+            },
+            {
+              "number": 31,
+              "title": "The Manuscript",
+              "duration_s": 224,
+              "path": "Taylor Swift/THE TORTURED POETS DEPARTMENT_ THE ANTHOLOGY/31 Taylor Swift - The Manuscript.flac"
+            }
+          ]
+        },
+        {
+          "name": "Taylor Swift",
+          "year": "2006-10-24",
+          "genre": "Country",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Tim McGraw",
+              "duration_s": 234,
+              "path": "Taylor Swift/Taylor Swift/01 Tim McGraw.flac"
+            },
+            {
+              "number": 2,
+              "title": "Picture to Burn",
+              "duration_s": 175,
+              "path": "Taylor Swift/Taylor Swift/02 Picture to Burn.flac"
+            },
+            {
+              "number": 3,
+              "title": "Teardrops on My Guitar",
+              "duration_s": 215,
+              "path": "Taylor Swift/Taylor Swift/03 Teardrops on My Guitar.flac"
+            },
+            {
+              "number": 4,
+              "title": "A Place in This World",
+              "duration_s": 202,
+              "path": "Taylor Swift/Taylor Swift/04 A Place in This World.flac"
+            },
+            {
+              "number": 5,
+              "title": "Cold as You",
+              "duration_s": 241,
+              "path": "Taylor Swift/Taylor Swift/05 Cold as You.flac"
+            },
+            {
+              "number": 6,
+              "title": "The Outside",
+              "duration_s": 208,
+              "path": "Taylor Swift/Taylor Swift/06 The Outside.flac"
+            },
+            {
+              "number": 7,
+              "title": "Tied Together With a Smile",
+              "duration_s": 251,
+              "path": "Taylor Swift/Taylor Swift/07 Tied Together With a Smile.flac"
+            },
+            {
+              "number": 8,
+              "title": "Stay Beautiful",
+              "duration_s": 238,
+              "path": "Taylor Swift/Taylor Swift/08 Stay Beautiful.flac"
+            },
+            {
+              "number": 9,
+              "title": "Should’ve Said No",
+              "duration_s": 244,
+              "path": "Taylor Swift/Taylor Swift/09 Should’ve Said No.flac"
+            },
+            {
+              "number": 10,
+              "title": "Mary’s Song (Oh My My)",
+              "duration_s": 215,
+              "path": "Taylor Swift/Taylor Swift/10 Mary’s Song (Oh My My).flac"
+            },
+            {
+              "number": 11,
+              "title": "Our Song",
+              "duration_s": 202,
+              "path": "Taylor Swift/Taylor Swift/11 Our Song.flac"
+            }
+          ]
+        },
+        {
+          "name": "The Life of a Showgirl",
+          "year": "2025-10-03",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "The Fate of Ophelia",
+              "duration_s": 226,
+              "path": "Taylor Swift/The Life of a Showgirl/01 Taylor Swift - The Fate of Ophelia.flac"
+            },
+            {
+              "number": 2,
+              "title": "Elizabeth Taylor",
+              "duration_s": 208,
+              "path": "Taylor Swift/The Life of a Showgirl/02 Taylor Swift - Elizabeth Taylor.flac"
+            },
+            {
+              "number": 3,
+              "title": "Opalite",
+              "duration_s": 235,
+              "path": "Taylor Swift/The Life of a Showgirl/03 Taylor Swift - Opalite.flac"
+            },
+            {
+              "number": 4,
+              "title": "Father Figure",
+              "duration_s": 212,
+              "path": "Taylor Swift/The Life of a Showgirl/04 Taylor Swift - Father Figure.flac"
+            },
+            {
+              "number": 5,
+              "title": "Eldest Daughter",
+              "duration_s": 246,
+              "path": "Taylor Swift/The Life of a Showgirl/05 Taylor Swift - Eldest Daughter.flac"
+            },
+            {
+              "number": 6,
+              "title": "Ruin the Friendship",
+              "duration_s": 220,
+              "path": "Taylor Swift/The Life of a Showgirl/06 Taylor Swift - Ruin the Friendship.flac"
+            },
+            {
+              "number": 7,
+              "title": "Actually Romantic",
+              "duration_s": 163,
+              "path": "Taylor Swift/The Life of a Showgirl/07 Taylor Swift - Actually Romantic.flac"
+            },
+            {
+              "number": 8,
+              "title": "Wi$h Li$t",
+              "duration_s": 207,
+              "path": "Taylor Swift/The Life of a Showgirl/08 Taylor Swift - Wi$h Li$t.flac"
+            },
+            {
+              "number": 9,
+              "title": "Wood",
+              "duration_s": 150,
+              "path": "Taylor Swift/The Life of a Showgirl/09 Taylor Swift - Wood.flac"
+            },
+            {
+              "number": 10,
+              "title": "CANCELLED!",
+              "duration_s": 211,
+              "path": "Taylor Swift/The Life of a Showgirl/10 Taylor Swift - CANCELLED!.flac"
+            },
+            {
+              "number": 11,
+              "title": "Honey",
+              "duration_s": 181,
+              "path": "Taylor Swift/The Life of a Showgirl/11 Taylor Swift - Honey.flac"
+            },
+            {
+              "number": 12,
+              "title": "The Life of a Showgirl",
+              "duration_s": 241,
+              "path": "Taylor Swift/The Life of a Showgirl/12 Taylor Swift feat. Sabrina Carpenter - The Life of a Showgirl.flac"
+            }
+          ]
+        },
+        {
+          "name": "evermore",
+          "year": "2020-12-11",
+          "genre": "Folk Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "willow",
+              "duration_s": 214,
+              "path": "Taylor Swift/evermore/01 Taylor Swift - willow.flac"
+            },
+            {
+              "number": 2,
+              "title": "champagne problems",
+              "duration_s": 244,
+              "path": "Taylor Swift/evermore/02 Taylor Swift - champagne problems.flac"
+            },
+            {
+              "number": 3,
+              "title": "gold rush",
+              "duration_s": 185,
+              "path": "Taylor Swift/evermore/03 Taylor Swift - gold rush.flac"
+            },
+            {
+              "number": 4,
+              "title": "’tis the damn season",
+              "duration_s": 229,
+              "path": "Taylor Swift/evermore/04 Taylor Swift - ’tis the damn season.flac"
+            },
+            {
+              "number": 5,
+              "title": "tolerate it",
+              "duration_s": 245,
+              "path": "Taylor Swift/evermore/05 Taylor Swift - tolerate it.flac"
+            },
+            {
+              "number": 6,
+              "title": "no body, no crime",
+              "duration_s": 215,
+              "path": "Taylor Swift/evermore/06 Taylor Swift feat. HAIM - no body, no crime.flac"
+            },
+            {
+              "number": 7,
+              "title": "happiness",
+              "duration_s": 315,
+              "path": "Taylor Swift/evermore/07 Taylor Swift - happiness.flac"
+            },
+            {
+              "number": 8,
+              "title": "dorothea",
+              "duration_s": 225,
+              "path": "Taylor Swift/evermore/08 Taylor Swift - dorothea.flac"
+            },
+            {
+              "number": 9,
+              "title": "coney island",
+              "duration_s": 275,
+              "path": "Taylor Swift/evermore/09 Taylor Swift feat. The National - coney island.flac"
+            },
+            {
+              "number": 10,
+              "title": "ivy",
+              "duration_s": 260,
+              "path": "Taylor Swift/evermore/10 Taylor Swift - ivy.flac"
+            },
+            {
+              "number": 11,
+              "title": "cowboy like me",
+              "duration_s": 275,
+              "path": "Taylor Swift/evermore/11 Taylor Swift - cowboy like me.flac"
+            },
+            {
+              "number": 12,
+              "title": "long story short",
+              "duration_s": 215,
+              "path": "Taylor Swift/evermore/12 Taylor Swift - long story short.flac"
+            },
+            {
+              "number": 13,
+              "title": "marjorie",
+              "duration_s": 257,
+              "path": "Taylor Swift/evermore/13 Taylor Swift - marjorie.flac"
+            },
+            {
+              "number": 14,
+              "title": "closure",
+              "duration_s": 180,
+              "path": "Taylor Swift/evermore/14 Taylor Swift - closure.flac"
+            },
+            {
+              "number": 15,
+              "title": "evermore",
+              "duration_s": 304,
+              "path": "Taylor Swift/evermore/15 Taylor Swift feat. Bon Iver - evermore.flac"
+            }
+          ]
+        },
+        {
+          "name": "folklore",
+          "year": "2020-07-24",
+          "genre": "Singer-Songwriter",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "the 1",
+              "duration_s": 210,
+              "path": "Taylor Swift/folklore/01 Taylor Swift - the 1.flac"
+            },
+            {
+              "number": 2,
+              "title": "cardigan",
+              "duration_s": 239,
+              "path": "Taylor Swift/folklore/02 Taylor Swift - cardigan.flac"
+            },
+            {
+              "number": 3,
+              "title": "the last great american dynasty",
+              "duration_s": 230,
+              "path": "Taylor Swift/folklore/03 Taylor Swift - the last great american dynasty.flac"
+            },
+            {
+              "number": 4,
+              "title": "exile",
+              "duration_s": 285,
+              "path": "Taylor Swift/folklore/04 Taylor Swift feat. Bon Iver - exile.flac"
+            },
+            {
+              "number": 5,
+              "title": "my tears ricochet",
+              "duration_s": 255,
+              "path": "Taylor Swift/folklore/05 Taylor Swift - my tears ricochet.flac"
+            },
+            {
+              "number": 6,
+              "title": "mirrorball",
+              "duration_s": 208,
+              "path": "Taylor Swift/folklore/06 Taylor Swift - mirrorball.flac"
+            },
+            {
+              "number": 7,
+              "title": "seven",
+              "duration_s": 208,
+              "path": "Taylor Swift/folklore/07 Taylor Swift - seven.flac"
+            },
+            {
+              "number": 8,
+              "title": "august",
+              "duration_s": 261,
+              "path": "Taylor Swift/folklore/08 Taylor Swift - august.flac"
+            },
+            {
+              "number": 9,
+              "title": "this is me trying",
+              "duration_s": 195,
+              "path": "Taylor Swift/folklore/09 Taylor Swift - this is me trying.flac"
+            },
+            {
+              "number": 10,
+              "title": "illicit affairs",
+              "duration_s": 190,
+              "path": "Taylor Swift/folklore/10 Taylor Swift - illicit affairs.flac"
+            },
+            {
+              "number": 11,
+              "title": "invisible string",
+              "duration_s": 252,
+              "path": "Taylor Swift/folklore/11 Taylor Swift - invisible string.flac"
+            },
+            {
+              "number": 12,
+              "title": "mad woman",
+              "duration_s": 237,
+              "path": "Taylor Swift/folklore/12 Taylor Swift - mad woman.flac"
+            },
+            {
+              "number": 13,
+              "title": "epiphany",
+              "duration_s": 289,
+              "path": "Taylor Swift/folklore/13 Taylor Swift - epiphany.flac"
+            },
+            {
+              "number": 14,
+              "title": "betty",
+              "duration_s": 294,
+              "path": "Taylor Swift/folklore/14 Taylor Swift - betty.flac"
+            },
+            {
+              "number": 15,
+              "title": "peace",
+              "duration_s": 234,
+              "path": "Taylor Swift/folklore/15 Taylor Swift - peace.flac"
+            },
+            {
+              "number": 16,
+              "title": "hoax",
+              "duration_s": 220,
+              "path": "Taylor Swift/folklore/16 Taylor Swift - hoax.flac"
+            }
+          ]
+        },
+        {
+          "name": "reputation",
+          "year": "2017-11-10",
+          "genre": "Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "…Ready for It?",
+              "duration_s": 208,
+              "path": "Taylor Swift/reputation/01 Taylor Swift - …Ready for It_.flac"
+            },
+            {
+              "number": 2,
+              "title": "End Game",
+              "duration_s": 244,
+              "path": "Taylor Swift/reputation/02 Taylor Swift feat. Ed Sheeran & Future - End Game.flac"
+            },
+            {
+              "number": 3,
+              "title": "I Did Something Bad",
+              "duration_s": 238,
+              "path": "Taylor Swift/reputation/03 Taylor Swift - I Did Something Bad.flac"
+            },
+            {
+              "number": 4,
+              "title": "Don’t Blame Me",
+              "duration_s": 236,
+              "path": "Taylor Swift/reputation/04 Taylor Swift - Don’t Blame Me.flac"
+            },
+            {
+              "number": 5,
+              "title": "Delicate",
+              "duration_s": 232,
+              "path": "Taylor Swift/reputation/05 Taylor Swift - Delicate.flac"
+            },
+            {
+              "number": 6,
+              "title": "Look What You Made Me Do",
+              "duration_s": 211,
+              "path": "Taylor Swift/reputation/06 Taylor Swift - Look What You Made Me Do.flac"
+            },
+            {
+              "number": 7,
+              "title": "So It Goes…",
+              "duration_s": 227,
+              "path": "Taylor Swift/reputation/07 Taylor Swift - So It Goes….flac"
+            },
+            {
+              "number": 8,
+              "title": "Gorgeous",
+              "duration_s": 209,
+              "path": "Taylor Swift/reputation/08 Taylor Swift - Gorgeous.flac"
+            },
+            {
+              "number": 9,
+              "title": "Getaway Car",
+              "duration_s": 233,
+              "path": "Taylor Swift/reputation/09 Taylor Swift - Getaway Car.flac"
+            },
+            {
+              "number": 10,
+              "title": "King of My Heart",
+              "duration_s": 214,
+              "path": "Taylor Swift/reputation/10 Taylor Swift - King of My Heart.flac"
+            },
+            {
+              "number": 11,
+              "title": "Dancing With Our Hands Tied",
+              "duration_s": 211,
+              "path": "Taylor Swift/reputation/11 Taylor Swift - Dancing With Our Hands Tied.flac"
+            },
+            {
+              "number": 12,
+              "title": "Dress",
+              "duration_s": 230,
+              "path": "Taylor Swift/reputation/12 Taylor Swift - Dress.flac"
+            },
+            {
+              "number": 13,
+              "title": "This Is Why We Can’t Have Nice Things",
+              "duration_s": 207,
+              "path": "Taylor Swift/reputation/13 Taylor Swift - This Is Why We Can’t Have Nice Things.flac"
+            },
+            {
+              "number": 14,
+              "title": "Call It What You Want",
+              "duration_s": 203,
+              "path": "Taylor Swift/reputation/14 Taylor Swift - Call It What You Want.flac"
+            },
+            {
+              "number": 15,
+              "title": "New Year’s Day",
+              "duration_s": 235,
+              "path": "Taylor Swift/reputation/15 Taylor Swift - New Year’s Day.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Various Artists",
+      "albums": [
+        {
+          "name": "Best of Acoustic",
+          "year": "2022-02-25",
+          "genre": "Alternative R&B",
+          "tracks": [
+            {
+              "number": 20,
+              "title": "Rapide (acoustic)",
+              "duration_s": 243,
+              "path": "Various Artists/Best of Acoustic/20 Mahmood - Rapide (acoustic).flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "aespa",
+      "albums": [
+        {
+          "name": "Armageddon",
+          "year": "2024-05-27",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Supernova",
+              "duration_s": 178,
+              "path": "aespa/Armageddon/01 Supernova.flac"
+            },
+            {
+              "number": 2,
+              "title": "Armageddon",
+              "duration_s": 196,
+              "path": "aespa/Armageddon/02 Armageddon.flac"
+            },
+            {
+              "number": 3,
+              "title": "Set the Tone",
+              "duration_s": 202,
+              "path": "aespa/Armageddon/03 Set the Tone.flac"
+            },
+            {
+              "number": 4,
+              "title": "Mine",
+              "duration_s": 193,
+              "path": "aespa/Armageddon/04 Mine.flac"
+            },
+            {
+              "number": 5,
+              "title": "Licorice",
+              "duration_s": 158,
+              "path": "aespa/Armageddon/05 Licorice.flac"
+            },
+            {
+              "number": 6,
+              "title": "BAHAMA",
+              "duration_s": 190,
+              "path": "aespa/Armageddon/06 BAHAMA.flac"
+            },
+            {
+              "number": 7,
+              "title": "Long Chat (#♥︎)",
+              "duration_s": 195,
+              "path": "aespa/Armageddon/07 Long Chat (#♥︎).flac"
+            },
+            {
+              "number": 8,
+              "title": "Prologue",
+              "duration_s": 194,
+              "path": "aespa/Armageddon/08 Prologue.flac"
+            },
+            {
+              "number": 9,
+              "title": "Live My Life",
+              "duration_s": 159,
+              "path": "aespa/Armageddon/09 Live My Life.flac"
+            },
+            {
+              "number": 10,
+              "title": "목소리 (Melody)",
+              "duration_s": 187,
+              "path": "aespa/Armageddon/10 목소리 (Melody).flac"
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "year": "2023-11-10",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Drama",
+              "duration_s": 214,
+              "path": "aespa/Drama/01 Drama.flac"
+            },
+            {
+              "number": 2,
+              "title": "Trick or Trick",
+              "duration_s": 175,
+              "path": "aespa/Drama/02 Trick or Trick.flac"
+            },
+            {
+              "number": 3,
+              "title": "Don't Blink",
+              "duration_s": 169,
+              "path": "aespa/Drama/03 Don't Blink.flac"
+            },
+            {
+              "number": 4,
+              "title": "Hot Air Balloon",
+              "duration_s": 198,
+              "path": "aespa/Drama/04 Hot Air Balloon.flac"
+            },
+            {
+              "number": 5,
+              "title": "YOLO",
+              "duration_s": 189,
+              "path": "aespa/Drama/05 YOLO.flac"
+            },
+            {
+              "number": 6,
+              "title": "You",
+              "duration_s": 203,
+              "path": "aespa/Drama/06 You.flac"
+            },
+            {
+              "number": 7,
+              "title": "Better Things",
+              "duration_s": 203,
+              "path": "aespa/Drama/07 Better Things.flac"
+            }
+          ]
+        },
+        {
+          "name": "Girls",
+          "year": "2022-07-08",
+          "genre": "Contemporary R&B",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Girls",
+              "duration_s": 240,
+              "path": "aespa/Girls/01 Girls.flac"
+            },
+            {
+              "number": 2,
+              "title": "도깨비불 (Illusion)",
+              "duration_s": 195,
+              "path": "aespa/Girls/02 도깨비불 (Illusion).flac"
+            },
+            {
+              "number": 3,
+              "title": "Lingo",
+              "duration_s": 156,
+              "path": "aespa/Girls/03 Lingo.flac"
+            },
+            {
+              "number": 4,
+              "title": "Life’s Too Short",
+              "duration_s": 178,
+              "path": "aespa/Girls/04 Life’s Too Short.flac"
+            },
+            {
+              "number": 5,
+              "title": "ICU (쉬어가도 돼)",
+              "duration_s": 221,
+              "path": "aespa/Girls/05 ICU (쉬어가도 돼).flac"
+            },
+            {
+              "number": 6,
+              "title": "Life’s Too Short (English ver.)",
+              "duration_s": 178,
+              "path": "aespa/Girls/06 Life’s Too Short (English ver.).flac"
+            },
+            {
+              "number": 7,
+              "title": "Black Mamba",
+              "duration_s": 174,
+              "path": "aespa/Girls/07 Black Mamba.flac"
+            },
+            {
+              "number": 8,
+              "title": "Forever (약속)",
+              "duration_s": 298,
+              "path": "aespa/Girls/08 Forever (약속).flac"
+            },
+            {
+              "number": 9,
+              "title": "Dreams Come True",
+              "duration_s": 204,
+              "path": "aespa/Girls/09 Dreams Come True.flac"
+            }
+          ]
+        },
+        {
+          "name": "LEMONADE",
+          "year": "2026-05-29",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "WDA (Whole Different Animal)",
+              "duration_s": 174,
+              "path": "aespa/LEMONADE/01 aespa feat. G‐DRAGON - WDA (Whole Different Animal).flac"
+            },
+            {
+              "number": 2,
+              "title": "LEMONADE",
+              "duration_s": 187,
+              "path": "aespa/LEMONADE/02 aespa - LEMONADE.flac"
+            },
+            {
+              "number": 3,
+              "title": "SHAKIN’",
+              "duration_s": 162,
+              "path": "aespa/LEMONADE/03 aespa - SHAKIN’.flac"
+            },
+            {
+              "number": 4,
+              "title": "Can’t Help Myself",
+              "duration_s": 181,
+              "path": "aespa/LEMONADE/04 aespa - Can’t Help Myself.flac"
+            },
+            {
+              "number": 5,
+              "title": "Camouflage",
+              "duration_s": 187,
+              "path": "aespa/LEMONADE/05 aespa - Camouflage.flac"
+            },
+            {
+              "number": 6,
+              "title": "Bite",
+              "duration_s": 192,
+              "path": "aespa/LEMONADE/06 aespa - Bite.flac"
+            },
+            {
+              "number": 7,
+              "title": "Switchblade",
+              "duration_s": 182,
+              "path": "aespa/LEMONADE/07 aespa feat. Ty Dolla $ign - Switchblade.flac"
+            },
+            {
+              "number": 8,
+              "title": "Roll",
+              "duration_s": 159,
+              "path": "aespa/LEMONADE/08 aespa - Roll.flac"
+            },
+            {
+              "number": 9,
+              "title": "My Plan",
+              "duration_s": 192,
+              "path": "aespa/LEMONADE/09 aespa - My Plan.flac"
+            },
+            {
+              "number": 10,
+              "title": "’Til We Die",
+              "duration_s": 203,
+              "path": "aespa/LEMONADE/10 aespa - ’Til We Die.flac"
+            },
+            {
+              "number": 11,
+              "title": "LEMONADE",
+              "duration_s": 187,
+              "path": "aespa/LEMONADE/11 aespa feat. Becky G - LEMONADE.flac"
+            }
+          ]
+        },
+        {
+          "name": "MY WORLD",
+          "year": "2023-05-08",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Welcome to MY World",
+              "duration_s": 206,
+              "path": "aespa/MY WORLD/01 aespa feat. nævis - Welcome to MY World.flac"
+            },
+            {
+              "number": 2,
+              "title": "Spicy",
+              "duration_s": 197,
+              "path": "aespa/MY WORLD/02 aespa - Spicy.flac"
+            },
+            {
+              "number": 3,
+              "title": "Salty & Sweet",
+              "duration_s": 201,
+              "path": "aespa/MY WORLD/03 aespa - Salty & Sweet.flac"
+            },
+            {
+              "number": 4,
+              "title": "Thirsty",
+              "duration_s": 193,
+              "path": "aespa/MY WORLD/04 aespa - Thirsty.flac"
+            },
+            {
+              "number": 5,
+              "title": "I’m Unhappy",
+              "duration_s": 205,
+              "path": "aespa/MY WORLD/05 aespa - I’m Unhappy.flac"
+            },
+            {
+              "number": 6,
+              "title": "’Til We Meet Again",
+              "duration_s": 218,
+              "path": "aespa/MY WORLD/06 aespa - ’Til We Meet Again.flac"
+            }
+          ]
+        },
+        {
+          "name": "Rich Man",
+          "year": "2025-09-05",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Rich Man",
+              "duration_s": 197,
+              "path": "aespa/Rich Man/01 Rich Man.flac"
+            },
+            {
+              "number": 2,
+              "title": "Drift",
+              "duration_s": 177,
+              "path": "aespa/Rich Man/02 Drift.flac"
+            },
+            {
+              "number": 3,
+              "title": "Bubble",
+              "duration_s": 150,
+              "path": "aespa/Rich Man/03 Bubble.flac"
+            },
+            {
+              "number": 4,
+              "title": "Count on Me",
+              "duration_s": 213,
+              "path": "aespa/Rich Man/04 Count on Me.flac"
+            },
+            {
+              "number": 5,
+              "title": "Angel #48",
+              "duration_s": 195,
+              "path": "aespa/Rich Man/05 Angel #48.flac"
+            },
+            {
+              "number": 6,
+              "title": "To the Girls",
+              "duration_s": 214,
+              "path": "aespa/Rich Man/06 To the Girls.flac"
+            }
+          ]
+        },
+        {
+          "name": "Savage",
+          "year": "2021-10-05",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "ænergy",
+              "duration_s": 147,
+              "path": "aespa/Savage/01 ænergy.flac"
+            },
+            {
+              "number": 2,
+              "title": "Savage",
+              "duration_s": 238,
+              "path": "aespa/Savage/02 Savage.flac"
+            },
+            {
+              "number": 3,
+              "title": "I’ll Make You Cry",
+              "duration_s": 214,
+              "path": "aespa/Savage/03 I’ll Make You Cry.flac"
+            },
+            {
+              "number": 4,
+              "title": "YEPPI YEPPI",
+              "duration_s": 213,
+              "path": "aespa/Savage/04 YEPPI YEPPI.flac"
+            },
+            {
+              "number": 5,
+              "title": "ICONIC",
+              "duration_s": 191,
+              "path": "aespa/Savage/05 ICONIC.flac"
+            },
+            {
+              "number": 6,
+              "title": "자각몽 (Lucid Dream)",
+              "duration_s": 210,
+              "path": "aespa/Savage/06 자각몽 (Lucid Dream).flac"
+            }
+          ]
+        },
+        {
+          "name": "Whiplash",
+          "year": "2024",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "Whiplash",
+              "duration_s": 183,
+              "path": "aespa/Whiplash/01 Whiplash.flac"
+            },
+            {
+              "number": 2,
+              "title": "Kill It",
+              "duration_s": 199,
+              "path": "aespa/Whiplash/02 Kill It.flac"
+            },
+            {
+              "number": 3,
+              "title": "Flights, Not Feelings",
+              "duration_s": 181,
+              "path": "aespa/Whiplash/03 Flights, Not Feelings.flac"
+            },
+            {
+              "number": 4,
+              "title": "Pink Hoodie",
+              "duration_s": 146,
+              "path": "aespa/Whiplash/04 Pink Hoodie.flac"
+            },
+            {
+              "number": 5,
+              "title": "Flowers",
+              "duration_s": 190,
+              "path": "aespa/Whiplash/05 Flowers.flac"
+            },
+            {
+              "number": 6,
+              "title": "Just Another Girl",
+              "duration_s": 184,
+              "path": "aespa/Whiplash/06 Just Another Girl.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "aespa & 9001",
+      "albums": [
+        {
+          "name": "Pokémon 2023 (Original TV Series Soundtrack, Korea)",
+          "year": "2023-08-23",
+          "genre": "K-Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "We Go",
+              "duration_s": 188,
+              "path": "aespa & 9001/Pokémon 2023 (Original TV Series Soundtrack, Korea)/01 aespa - We Go.flac"
+            },
+            {
+              "number": 2,
+              "title": "By Your Side",
+              "duration_s": 167,
+              "path": "aespa & 9001/Pokémon 2023 (Original TV Series Soundtrack, Korea)/02 9001 - By Your Side.flac"
+            },
+            {
+              "number": 3,
+              "title": "We Go (instrumental)",
+              "duration_s": 188,
+              "path": "aespa & 9001/Pokémon 2023 (Original TV Series Soundtrack, Korea)/03 aespa - We Go (instrumental).flac"
+            },
+            {
+              "number": 4,
+              "title": "By Your Side (instrumental)",
+              "duration_s": 167,
+              "path": "aespa & 9001/Pokémon 2023 (Original TV Series Soundtrack, Korea)/04 9001 - By Your Side (instrumental).flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sombr",
+      "albums": [
+        {
+          "name": "I Barely Know Her",
+          "year": "2025-08-22",
+          "genre": "Alternative Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "crushing",
+              "duration_s": 207,
+              "path": "sombr/I Barely Know Her/01 crushing.flac"
+            },
+            {
+              "number": 2,
+              "title": "12 to 12",
+              "duration_s": 242,
+              "path": "sombr/I Barely Know Her/02 12 to 12.flac"
+            },
+            {
+              "number": 3,
+              "title": "i wish i knew how to quit you",
+              "duration_s": 232,
+              "path": "sombr/I Barely Know Her/03 i wish i knew how to quit you.flac"
+            },
+            {
+              "number": 5,
+              "title": "canal street",
+              "duration_s": 302,
+              "path": "sombr/I Barely Know Her/05 canal street.flac"
+            },
+            {
+              "number": 6,
+              "title": "dime",
+              "duration_s": 225,
+              "path": "sombr/I Barely Know Her/06 dime.flac"
+            },
+            {
+              "number": 7,
+              "title": "undressed",
+              "duration_s": 182,
+              "path": "sombr/I Barely Know Her/07 undressed.flac"
+            },
+            {
+              "number": 8,
+              "title": "come closer",
+              "duration_s": 194,
+              "path": "sombr/I Barely Know Her/08 come closer.flac"
+            },
+            {
+              "number": 9,
+              "title": "we never dated",
+              "duration_s": 196,
+              "path": "sombr/I Barely Know Her/09 we never dated.flac"
+            },
+            {
+              "number": 10,
+              "title": "under the mat",
+              "duration_s": 284,
+              "path": "sombr/I Barely Know Her/10 under the mat.flac"
+            }
+          ]
+        },
+        {
+          "name": "back to friends",
+          "year": "2024-12-27",
+          "genre": "Dream Pop",
+          "tracks": [
+            {
+              "number": 1,
+              "title": "back to friends",
+              "duration_s": 199,
+              "path": "sombr/back to friends/01 back to friends.flac"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
